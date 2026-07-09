@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:28:35
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/dash_scroll_preserve_on_tab_switch.md
 ---
 # Plan: Preserve `dash.md` Tasks-query scroll on `<Ctrl+0>` tab switch
