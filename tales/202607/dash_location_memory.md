@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:06:47
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/dash_location_memory.md
 ---
 # Plan: Remember `dash.md` Location for `<Ctrl+0>`
