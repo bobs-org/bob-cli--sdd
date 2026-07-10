@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 16:35:25
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/colon_pomodoro_capture_1.md
 ---
 # Plan: Make colon the Pomodoro capture discriminator
