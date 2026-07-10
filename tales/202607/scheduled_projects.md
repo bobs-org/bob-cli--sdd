@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 13:10:16
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/scheduled_projects.md
 ---
 # Scheduled Project Visibility
