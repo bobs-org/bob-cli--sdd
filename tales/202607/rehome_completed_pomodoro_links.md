@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 18:18:50
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/rehome_completed_pomodoro_links.md
 ---
 # Plan: Rehome Completed Pomodoro Task Links
