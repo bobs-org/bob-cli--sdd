@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 11:04:01
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/dismiss_property_picker_after_delete.md
 ---
 # Dismiss the Bullet Property Picker After Deletion
