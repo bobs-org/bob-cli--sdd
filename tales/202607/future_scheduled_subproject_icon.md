@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 13:34:20
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/future_scheduled_subproject_icon.md
 ---
 # Future-Scheduled Sub-project Calendar Marker
