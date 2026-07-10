@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 12:57:42
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/rename_dataview_to_query.md
 ---
 # Rename `bob dataview` to `bob query`
