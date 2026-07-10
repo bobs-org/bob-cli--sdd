@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 16:02:50
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/mark_next_tasks.md
 ---
 # Plan: `bob mark-next-tasks`
