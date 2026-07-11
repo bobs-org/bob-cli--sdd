@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 07:50:18
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/preserve_prj_hide_on_schedule.md
 ---
 # Preserve `^prj` Visibility During Scheduled Project Sync
