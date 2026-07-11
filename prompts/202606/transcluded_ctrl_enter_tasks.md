@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/transcluded_ctrl_enter_tasks.md
+plan: sdd/plans/202606/transcluded_ctrl_enter_tasks.md
 ---
  Can you help me add support for completing transcluded Obsidian task lines using the existing `<ctrl+enter>` keymap?
 

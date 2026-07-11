@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/transcluded_task_at_keymap.md
+plan: sdd/plans/202607/transcluded_task_at_keymap.md
 ---
  We already have the `!` keymap in Obsidian, which toggles whether or not an Obsidian task associated with a block link on the current line is transcluded. Can you help me add a new `@` keymap, which should only be active when the cursor is on one of these lines and the block link is transcluded?
 

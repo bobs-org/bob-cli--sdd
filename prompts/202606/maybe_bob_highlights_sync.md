@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/maybe_bob_highlights_sync.md
+plan: sdd/plans/202606/maybe_bob_highlights_sync.md
 ---
  Can you help me write a new `maybe_bob_highlights_sync` script (add it to my chezmoi repo)?
 

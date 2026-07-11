@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/fix_bad_area_type_links.md
+plan: sdd/plans/202606/fix_bad_area_type_links.md
 ---
  #fork:bob-cli-6  It seems like there is now a large number of Obsidian note files that link to
 the `[[area]]` note file that either are legacy files like the `[[soon_*]]` files or should be linking to the `[[ref]]`

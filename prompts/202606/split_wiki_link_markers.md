@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/split_wiki_link_markers.md
+plan: sdd/plans/202606/split_wiki_link_markers.md
 ---
  We currently have two different behaviors for when the `^` character is typed after an Obsidian link's last `]` character:
 

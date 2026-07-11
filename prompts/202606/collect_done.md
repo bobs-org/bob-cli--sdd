@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/collect_done.md
+plan: sdd/plans/202606/collect_done.md
 ---
  Can you help me write a new `bob collect-done` command to help me manage the done and canceled tasks that
 live in various files throughout my `~/bob/` Obsidian vault?

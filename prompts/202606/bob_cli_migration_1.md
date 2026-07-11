@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/epics/202606/bob_cli_migration_1.md
+plan: .sase/sdd/plans/202606/bob_cli_migration_1.md
 ---
  Can you help me migrate all scripts related to my new ~/bob/ Obsidian value that currently live in my chezmoi repo to this repo? Let's create a new Rust `bob` CLI tool that is used as ther interface for all of these scripts (ex: `bob pomodoro`). For this MVP, it is fine if these commands just delegate to the existing bash / Python scripts. For example, the `bob pomodoro` command can be a thin wrapper around the `bob_pomodoro` script, but that script MUST be moved to this repo and be available to users who install this Rust tool (e.g. using the `cargo install` command).
 

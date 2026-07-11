@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/rehome_completed_pomodoro_links.md
+plan: .sase/sdd/plans/202607/rehome_completed_pomodoro_links.md
 ---
  The `bob mark-next-tasks` command currently maintains which Obsidian tasks have the `[*]` task status by checking which block links exist on open pomodoros in today's daily file (see recent, related git commits). Can you help me also start checking for any block links in that daily note's open pomodoros that point to done/complete Obsidian tasks?
 

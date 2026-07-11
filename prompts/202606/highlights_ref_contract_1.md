@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/highlights_ref_contract_1.md
+plan: sdd/plans/202606/highlights_ref_contract_1.md
 ---
  Can you help me make some improvements to the new `bob highlights-ref` command?
 

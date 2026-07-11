@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/move_done_tasks_dirty_git.md
+plan: sdd/plans/202606/move_done_tasks_dirty_git.md
 ---
  It seems like the `bob move-done-tasks` command refuses to edit files when they have existing git changes
 (see the /var/tmp/bob_nightly.log file for context). This is not correct (uncommitted git changes should not even be

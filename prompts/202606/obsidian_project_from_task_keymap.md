@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_project_from_task_keymap.md
+plan: sdd/plans/202606/obsidian_project_from_task_keymap.md
 ---
   We already have an Obsidian `<ctrl+shift+n>` keymap that creates a new project file using the
 `~/bob/_templates/new_project.md` template. Can you help me create a new `<ctrl+alt+shift+n>` that does the same thing,

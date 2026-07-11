@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/plugins_sync_safety.md
+plan: sdd/plans/202606/plugins_sync_safety.md
 ---
  Can you help me make the `bob plugins sync` command much safer to run?
 

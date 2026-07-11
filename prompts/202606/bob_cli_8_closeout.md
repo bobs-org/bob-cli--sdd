@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bob_cli_8_closeout.md
+plan: sdd/plans/202606/bob_cli_8_closeout.md
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_depends_on_local_task_picker_1.md
+plan: sdd/plans/202606/obsidian_depends_on_local_task_picker_1.md
 ---
  Can you help me add support for the `dependsOn` property to the `<ctrl+shift+p>` keymap?
 

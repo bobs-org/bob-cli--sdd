@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bob_cronjob.md
+plan: sdd/plans/202606/bob_cronjob.md
 ---
  Can you help me create a new `bob cronjob` command?
 

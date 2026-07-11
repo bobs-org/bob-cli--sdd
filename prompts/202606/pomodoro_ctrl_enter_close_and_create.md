@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/pomodoro_ctrl_enter_close_and_create.md
+plan: sdd/plans/202606/pomodoro_ctrl_enter_close_and_create.md
 ---
  I currently define a Pomodoro task in my Obsidian daily files for each time block where I intend to work on
 something. Each of these tasks contains sub-bullets that are expected to be of one of the following forms:

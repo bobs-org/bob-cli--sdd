@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_project_from_task_block_id.md
+plan: sdd/plans/202606/obsidian_project_from_task_block_id.md
 ---
  #fork:5o Can you now help me make it so, if the original task was in the `~/bob/fake_project.md` file and
 had a `^foo-bar-baz` block ID (which shouldn't be copied to the new `^prj` task, since that would result in two block

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/ref_status_standardization.md
+plan: sdd/plans/202606/ref_status_standardization.md
 ---
   Can you help me standardize the `status` field that is used for ref note files? We should
 only support the following statuses:

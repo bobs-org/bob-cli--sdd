@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bob_capture_command.md
+plan: sdd/plans/202606/bob_capture_command.md
 ---
  #fork:research.j.final Can you help me move as much of the logic for this keymap out to a new `bob capture` command as possible / desirable? Make sure this command has a good CLI interface and great command-line output, but also works seamlessly with the existing Hammerspoon keymap. See the research markdown file that the previous agent created for context and inspiration.
 

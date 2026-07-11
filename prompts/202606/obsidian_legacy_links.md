@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_legacy_links.md
+plan: sdd/plans/202606/obsidian_legacy_links.md
 ---
  Can you help me migrate the legacy file links found in many of my Obsidian vault note files? We should
 convert the lines that start with `# ^ = [[<name>]]` to the frontmatter `parent` property and any line of the form

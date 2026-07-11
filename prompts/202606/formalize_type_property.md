@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/formalize_type_property.md
+plan: sdd/plans/202606/formalize_type_property.md
 ---
  Can you help me formalize the `type` frontmatter property that is used on some of my Obsidian note files?
 

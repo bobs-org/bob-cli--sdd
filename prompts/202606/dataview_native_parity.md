@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/dataview_native_parity.md
+plan: sdd/plans/202606/dataview_native_parity.md
 ---
  #fork:research.cdx-5 it's most important for the native engine to have full parity with the obsidian engine since agents will normally be running on a machine that does not have obsidian running. Can you help me implement all of the functionality needed to be able to support all of the same queries with the native engine that we do with the Obsidian engine currently? Once this is done, you should also delete the dynomark integration since we shouldn't need that anymore. 
 

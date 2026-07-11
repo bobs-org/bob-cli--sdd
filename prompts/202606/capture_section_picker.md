@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/capture_section_picker.md
+plan: sdd/plans/202606/capture_section_picker.md
 ---
  When I use the `<cmd+ctrl+shift+i>` keymap (configured via Hammerspoon in my chezmoi repo) and the user
 input ends in `@` or `@#`, the user is prompted to pick an area or project note file. Can you help me add a similar

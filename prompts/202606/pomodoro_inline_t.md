@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/pomodoro_inline_t.md
+plan: sdd/plans/202606/pomodoro_inline_t.md
 ---
  #fork:12.f1.cdx Can you help me implement this?
 

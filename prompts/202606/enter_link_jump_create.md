@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/enter_link_jump_create.md
+plan: sdd/plans/202606/enter_link_jump_create.md
 ---
   Can you help me add robust support for link jumping and creation via the ~/bob/_templates/new_note.md template when the user hits enter.
 

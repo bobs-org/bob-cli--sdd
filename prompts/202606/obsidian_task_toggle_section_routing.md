@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_task_toggle_section_routing.md
+plan: sdd/plans/202606/obsidian_task_toggle_section_routing.md
 ---
  The `<ctrl+shift+]>` Obsidian keymap converts a bullet to/from a proper Obsidian task currently. Can you help me make it so, when both the "Tasks" and "Future Work" sections exist in the current file, tasks are moved to the bottom of the "Tasks" section after conversion and bullets are moved to the bottom of the "Future Work" section after conversion?
 

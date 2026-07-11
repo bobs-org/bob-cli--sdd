@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/revert_embed_fallback_add_ctrl_keymaps.md
+plan: sdd/plans/202606/revert_embed_fallback_add_ctrl_keymaps.md
 ---
  #fork:research.i.final.f1 Revert these changes.
 

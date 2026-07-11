@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/mark_next_tasks.md
+plan: .sase/sdd/plans/202607/mark_next_tasks.md
 ---
  Can you help me create a new `bob mark-next-tasks` command?
 

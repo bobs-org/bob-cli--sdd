@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_yank_path_keymap_fix.md
+plan: sdd/plans/202606/obsidian_yank_path_keymap_fix.md
 ---
  #fork:3a I've restarted Obsidian and then hit `,yr` but nothing happened (I was expecting the relative file
 path of the file I had opened to be copied to my clipboard). Can you help me diagnose the root cause of this issue and

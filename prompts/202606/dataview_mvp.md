@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/dataview_mvp.md
+plan: sdd/plans/202606/dataview_mvp.md
 ---
  #fork:research.final-2 Can you help me implement an ambitious MVP for this new `bob dataview` command? This is a large piece of work that should be split into phases. I'll let you decide how many phases to create, but
 keep in mind that each phase will be completed by a distinct agent instance (i.e. a distinct `claude` / `gemini` /

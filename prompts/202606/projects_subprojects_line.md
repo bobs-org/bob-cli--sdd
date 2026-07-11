@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/projects_subprojects_line.md
+plan: sdd/plans/202606/projects_subprojects_line.md
 ---
  #fork:5y.f1  Can you now help me make these sub-bullets look much better and group them together so
 the `^prj` task can support user-added sub-bullets too? There is no need for backward compatibility since I haven't run

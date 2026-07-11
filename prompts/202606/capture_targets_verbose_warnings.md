@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/capture_targets_verbose_warnings.md
+plan: sdd/plans/202606/capture_targets_verbose_warnings.md
 ---
  Can you help me only show those `bob capture-targets:` warning messages (see the output below for context) when the new `-v|--verbose` option (which you should add) is used with the `bob capture-targets` command? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the
 `sase plan propose` command (as the skill instructs) before making any file changes.

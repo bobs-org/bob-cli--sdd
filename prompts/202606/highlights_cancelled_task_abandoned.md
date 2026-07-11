@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/highlights_cancelled_task_abandoned.md
+plan: sdd/plans/202606/highlights_cancelled_task_abandoned.md
 ---
  I believe the `bob highlights` command already checks for the reference note's task line to see if it's
 complete and if so it updates the PDF file marker note status and the reference note's `status` frontmatter property to

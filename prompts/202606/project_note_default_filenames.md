@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/project_note_default_filenames.md
+plan: sdd/plans/202606/project_note_default_filenames.md
 ---
  If an Obsidian task in a `~/bob/foo_bar.md` file is promoted to a project note file using the existing
 `<ctrl+shift+alt+n>` keymap and it doesn't have a block ID, then we currently do not give the new project note file a

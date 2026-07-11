@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_delete_tab_keymaps.md
+plan: sdd/plans/202606/obsidian_delete_tab_keymaps.md
 ---
  Can you help me add three new Obsidian keymaps to:
 - delete all of the tabs to the left of the current tab

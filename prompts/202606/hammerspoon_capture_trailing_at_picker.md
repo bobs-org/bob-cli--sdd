@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/hammerspoon_capture_trailing_at_picker.md
+plan: sdd/plans/202606/hammerspoon_capture_trailing_at_picker.md
 ---
  #fork:8q.f1 This looks great! But can you now help me go back to the old behavior for the `foo bar baz` case and only show the new area/project file prompt when the user input ends in ` @`?
 

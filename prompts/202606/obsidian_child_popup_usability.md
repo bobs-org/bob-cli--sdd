@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_child_popup_usability.md
+plan: sdd/plans/202606/obsidian_child_popup_usability.md
 ---
  #fork:1o This works great, but can you make some improvements to it?
 

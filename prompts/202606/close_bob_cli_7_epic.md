@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/close_bob_cli_7_epic.md
+plan: sdd/plans/202606/close_bob_cli_7_epic.md
 ---
 
 

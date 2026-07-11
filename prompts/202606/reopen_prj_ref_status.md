@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/reopen_prj_ref_status.md
+plan: sdd/plans/202606/reopen_prj_ref_status.md
 ---
  Can you help me fix the `bob projects sync` and `bob highlights scan` commands so they change the `status` frontmatter field (and corresponding PDF marker note, in the case of ref notes) of project/ref notes to “wip” when their corresponding main task (the ^prj task for projects and the ^ref task for refs) is opened back up by the user?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_ctrl_shift_bracket_task_toggle.md
+plan: sdd/plans/202606/obsidian_ctrl_shift_bracket_task_toggle.md
 ---
  We already have a `<ctrl+]>` keymap that toggles an Obsidian note bullet to/from a checkbox. Can you help me
 add a new `<ctrl+shift+]>` keymap that toggles whether the current bullet/checkbox is a proper Obsidian task or not?

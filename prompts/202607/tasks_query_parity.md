@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/epics/202607/tasks_query_parity.md
+plan: .sase/sdd/plans/202607/tasks_query_parity.md
 ---
  Can you help me add support for Obsidian tasks queries to the `bob query` command?
 

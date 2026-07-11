@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/bob_projects_command.md
+plan: sdd/plans/202606/bob_projects_command.md
 ---
  #fork:bob-cli-6  Can you now help me create a new `bob projects` command?
 

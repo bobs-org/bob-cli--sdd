@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/mark_closed_subprojects.md
+plan: sdd/plans/202606/mark_closed_subprojects.md
 ---
  The `bob projects sync` command currently removes sub-projects from the dedicated sub-projects sub-bullet on
 the main project task in the project note file when that sub-project is closed. Can you help me start just marking that

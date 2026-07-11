@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_alias_block_completion_cursor.md
+plan: sdd/plans/202606/obsidian_alias_block_completion_cursor.md
 ---
  Obsidian currently always auto-converts `[[path/to/foobar]]` to `[[path/to/foobar|foobar]]` when I accept a
 completion (e.g. I pressed `<enter>` when the path/to/foobar.md file was selected after typing `[[` to trigger the

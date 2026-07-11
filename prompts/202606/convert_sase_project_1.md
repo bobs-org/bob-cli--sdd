@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/convert_sase_project_1.md
+plan: sdd/plans/202606/convert_sase_project_1.md
 ---
  Can you help me convert the `~/bob/sase.md` file into a proper project file (see other project files like `~/bob/sase_install.md` for an idea of what a project file should look like)? Also, all `[p::1]` tasks in that file should be converted to normal bullets and moved to a "Future Work" section at the bottom of the file.
 

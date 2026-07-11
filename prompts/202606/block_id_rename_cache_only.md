@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/block_id_rename_cache_only.md
+plan: sdd/plans/202606/block_id_rename_cache_only.md
 ---
  When updating a block ID using the special `^` trigger (placed after the last `]` in an Obsidian link), updating all existing references to that block ID can be slow. Can you help me make it much faster? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the `sase plan`
 command (as the skill instructs) before making any file changes.

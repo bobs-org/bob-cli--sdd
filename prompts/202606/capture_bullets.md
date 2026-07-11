@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/capture_bullets.md
+plan: sdd/plans/202606/capture_bullets.md
 ---
  Can you help me add support to the `bob capture` command for adding bullets instead of Obsidian tasks (which is all it currently supports)?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/done_archive_parent_type.md
+plan: sdd/plans/202606/done_archive_parent_type.md
 ---
  #fork:bob-cli-2.f1 Can you now help me start using a link to the original note as the `parent` frontmatter
 property value for the `~/bob/done/` files instead of `[[done]]`? These note files should instead link to `[[done]]` via

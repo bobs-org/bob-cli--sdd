@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/block_id_popup_preview.md
+plan: sdd/plans/202606/block_id_popup_preview.md
 ---
  When we use the `^` character after a block link in Obsidian, we already trigger a pop-up that allows the
 user to rename that block, but it is easy to forget what the task you are renaming is about. Can you start adding the

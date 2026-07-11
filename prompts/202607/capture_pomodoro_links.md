@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/capture_pomodoro_links.md
+plan: .sase/sdd/plans/202607/capture_pomodoro_links.md
 ---
  Can you help me improve the `bob capture` command? Namely:
 

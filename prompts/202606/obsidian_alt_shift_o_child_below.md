@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_alt_shift_o_child_below.md
+plan: sdd/plans/202606/obsidian_alt_shift_o_child_below.md
 ---
  #fork:7o.cld.f1.cdx.f1 This still didn't work. Can we just change the behavior of the `<alt+shift+o>` keymap
 to work the way we wanted the `<alt+o>` keymap to work and forget about the current functionality of the `<alt+shift+o>`

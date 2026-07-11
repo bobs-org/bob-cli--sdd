@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/native_dataview_folder_source_parity.md
+plan: sdd/plans/202606/native_dataview_folder_source_parity.md
 ---
 
 #fork:bob-cli-4 It appears we do not have complete parity yet (see the output below). Can you help me diagnose the root cause of this issue and fix it? Verify that the below query now works with the native engine once you think you've fixed the issue. Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the `sase plan`

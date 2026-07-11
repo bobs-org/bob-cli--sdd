@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/highlights_ref_marker_syntax.md
+plan: sdd/plans/202606/highlights_ref_marker_syntax.md
 ---
  The `bob highlights-ref scan` command currently updates the marker note on PDF files in cases where it
 shouldn't. For example, consider the below marker note:

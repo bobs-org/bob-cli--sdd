@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/block_link_task_picker.md
+plan: sdd/plans/202606/block_link_task_picker.md
 ---
  Can you help me add a new functionality to Obsidian that triggers when I use the `^` character after an existing `^` character in a block link that the user is typing out?
 

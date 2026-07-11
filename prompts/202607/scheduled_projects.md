@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/scheduled_projects.md
+plan: .sase/sdd/plans/202607/scheduled_projects.md
 ---
  Can you help me improve the `bob projects` command?
 

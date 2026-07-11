@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/bob_plugins_repo.md
+plan: sdd/plans/202606/bob_plugins_repo.md
 ---
  #fork:research.y.final Can you help me migrate these 6 Obsidian plugins to the new bbugyi200/bob-plugins repo?
 

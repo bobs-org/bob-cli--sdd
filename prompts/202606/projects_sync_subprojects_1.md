@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/projects_sync_subprojects_1.md
+plan: sdd/plans/202606/projects_sync_subprojects_1.md
 ---
  Can you help me start considering sub-projects when adding/removing the `p` property of the ^prj project task? Namely any project with sub-projects doesn't need to have tasks contained in it. A project contains sub-projects if any other project file links to it as its parent. See the `bob projects sync` command for context on all of this.
 

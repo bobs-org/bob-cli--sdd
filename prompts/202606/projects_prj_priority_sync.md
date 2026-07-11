@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/projects_prj_priority_sync.md
+plan: sdd/plans/202606/projects_prj_priority_sync.md
 ---
  The `bob projects sync` command currently adds a `scheduled` property to the `^prj` task if no unprioritized
 tasks exist in that project file. Can you help me stop using the `scheduled` property and instead just remove the

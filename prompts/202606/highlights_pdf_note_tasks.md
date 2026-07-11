@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/highlights_pdf_note_tasks.md
+plan: sdd/plans/202606/highlights_pdf_note_tasks.md
 ---
  Can you help me add support to the `bob highlights` command for triggering new Obsidian task creation based
 on PDF notes notes?

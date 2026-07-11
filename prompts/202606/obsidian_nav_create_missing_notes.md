@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/obsidian_nav_create_missing_notes.md
+plan: sdd/plans/202606/obsidian_nav_create_missing_notes.md
 ---
  Can you help me add note file creation support for the `<ctrl+->` keymap (to navigate to the `parent` file)
 and the `[[` and `]]` keymaps (to navigate using the prev/next links) in Obsidian? This should work the same way that

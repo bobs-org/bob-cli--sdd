@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/vim_surround_fixes.md
+plan: sdd/plans/202606/vim_surround_fixes.md
 ---
  The vim-surround keymaps in the bob-plugins repo have some problems:
 

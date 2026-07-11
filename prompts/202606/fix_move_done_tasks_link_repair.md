@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/fix_move_done_tasks_link_repair.md
+plan: sdd/plans/202606/fix_move_done_tasks_link_repair.md
 ---
  When we run the `bob move-done-tasks` command, it moves done tasks from ~/bob/ note files to ~/bob/done/ note files. This command is supposed to also fix any and all block links in the ~/bob/ directory that point to those done tasks, but it doesn't seem to be doing that (see the ~/bob/2026/20260621.md file, for example, which contains block links that were broken by this command). Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the
 `sase plan propose` command (as the skill instructs) before making any file changes.

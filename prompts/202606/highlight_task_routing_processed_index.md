@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/highlight_task_routing_processed_index.md
+plan: sdd/plans/202606/highlight_task_routing_processed_index.md
 ---
  #fork:3p.f1 Can you now help me improve this functionality a bit? Namely:
 

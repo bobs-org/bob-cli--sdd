@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/capture_tasks_section.md
+plan: sdd/plans/202606/capture_tasks_section.md
 ---
   Can you help me make the `bob capture` command always prefer adding tasks to the "Tasks" section in a file, if one exists? We should insert this new task on a new line after the last task in that section, if any exist; otherwise, we should insert the task on a new line after a single blank line after the "Tasks" section header.
 

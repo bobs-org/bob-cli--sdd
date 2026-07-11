@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/capture_scheduled_offset.md
+plan: sdd/plans/202606/capture_scheduled_offset.md
 ---
  Can you help me improve the way the `bob capture` command works?
 

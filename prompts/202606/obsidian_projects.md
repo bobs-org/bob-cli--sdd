@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/obsidian_projects.md
+plan: sdd/plans/202606/obsidian_projects.md
 ---
  Can you help me add support for the concept of "projects" to my Obsidian vault? Projects should be defined as note files
 that have the `type: [[project]]` frontmatter property.
