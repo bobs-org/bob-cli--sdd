@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 09:28:56
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/next_transcluded_pomodoro_tasks.md
 ---
 # Fix Next-status transcluded Pomodoro completion
