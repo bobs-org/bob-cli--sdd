@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 10:22:37
 status: wip
-prompt: sdd/prompts/202606/capture_tasks_section.md
+prompt: sdd/plans/202606/prompts/capture_tasks_section.md
 tier: tale
 ---
 # Plan: Prefer `Tasks` Sections for `bob capture`

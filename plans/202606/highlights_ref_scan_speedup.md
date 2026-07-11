@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 08:03:34
 status: done
-prompt: sdd/prompts/202606/highlights_ref_scan_speedup.md
+prompt: sdd/plans/202606/prompts/highlights_ref_scan_speedup.md
 tier: tale
 ---
 # Make `bob highlights-ref scan` WAY Faster

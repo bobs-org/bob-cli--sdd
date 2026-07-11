@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 14:44:24
 status: done
-prompt: sdd/prompts/202606/rename_cronjob_to_nightly.md
+prompt: sdd/plans/202606/prompts/rename_cronjob_to_nightly.md
 tier: tale
 ---
 # Plan: Rename `bob cronjob` to `bob nightly`

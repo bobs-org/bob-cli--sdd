@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 13:41:25
 status: done
-prompt: sdd/prompts/202606/highlights_scan_write_pdfs.md
+prompt: sdd/plans/202606/prompts/highlights_scan_write_pdfs.md
 tier: tale
 ---
 # Plan: Add `bob highlights scan --write-pdfs`

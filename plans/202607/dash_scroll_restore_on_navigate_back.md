@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 10:31:44
 status: done
-prompt: .sase/sdd/prompts/202607/dash_scroll_restore_on_navigate_back.md
+prompt: .sase/sdd/plans/202607/prompts/dash_scroll_restore_on_navigate_back.md
 tier: tale
 ---
 # Plan: Restore `dash.md` scroll position on `<Ctrl+0>` even when it is not already open in a tab

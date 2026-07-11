@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 10:14:25
 status: proposed
-prompt: sdd/prompts/202606/done_pomodoro_navigation.md
+prompt: sdd/plans/202606/prompts/done_pomodoro_navigation.md
 tier: tale
 ---
 

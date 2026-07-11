@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 10:58:10
 status: done
-prompt: sdd/prompts/202606/preserve_created_on_task_demote.md
+prompt: sdd/plans/202606/prompts/preserve_created_on_task_demote.md
 tier: tale
 ---
 

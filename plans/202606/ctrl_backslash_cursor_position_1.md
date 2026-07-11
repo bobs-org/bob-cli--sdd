@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 04:57:25
 status: planned
-prompt: sdd/prompts/202606/ctrl_backslash_cursor_position_1.md
+prompt: sdd/plans/202606/prompts/ctrl_backslash_cursor_position_1.md
 tier: tale
 ---
 

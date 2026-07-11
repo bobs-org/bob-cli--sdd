@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 11:17:28
 status: done
-prompt: sdd/prompts/202606/skip_missing_ob_sync.md
+prompt: sdd/plans/202606/prompts/skip_missing_ob_sync.md
 tier: tale
 ---
 # Plan: Skip Missing `ob sync` for Pomodoro Runtimes

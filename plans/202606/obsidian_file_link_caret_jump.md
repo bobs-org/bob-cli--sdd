@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 13:02:18
 status: done
-prompt: sdd/prompts/202606/obsidian_file_link_caret_jump.md
+prompt: sdd/plans/202606/prompts/obsidian_file_link_caret_jump.md
 tier: tale
 ---
 # Obsidian File Link Caret Jump Plan

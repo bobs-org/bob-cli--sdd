@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 09:36:40
 status: wip
-prompt: sdd/prompts/202606/obsidian_nav_create_missing_notes.md
+prompt: sdd/plans/202606/prompts/obsidian_nav_create_missing_notes.md
 tier: tale
 ---
 # Plan: Missing Note Creation for Parent and Prev/Next Navigation

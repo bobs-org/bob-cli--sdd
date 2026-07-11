@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 10:10:45
 status: wip
-prompt: sdd/prompts/202606/project_status_badges_child_picker.md
+prompt: sdd/plans/202606/prompts/project_status_badges_child_picker.md
 tier: tale
 ---
 # Plan: Project status badges in the `<ctrl+=>` child-note picker

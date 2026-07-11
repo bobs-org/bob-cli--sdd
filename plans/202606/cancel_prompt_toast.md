@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 10:42:50
 status: wip
-prompt: sdd/prompts/202606/cancel_prompt_toast.md
+prompt: sdd/plans/202606/prompts/cancel_prompt_toast.md
 tier: tale
 ---
 # Plan: Smart "prompt cancelled" toast for the agent prompt input bar

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 08:55:19
 status: wip
-prompt: sdd/prompts/202606/bob_sync_crontab.md
+prompt: sdd/plans/202606/prompts/bob_sync_crontab.md
 tier: tale
 ---
 # Plan: Fix `bob_sync` crontab entry to use `bob sync`

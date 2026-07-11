@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 17:09:11
 status: done
-prompt: sdd/prompts/202607/in_progress_transcluded_pomodoro_tasks.md
+prompt: sdd/plans/202607/prompts/in_progress_transcluded_pomodoro_tasks.md
 tier: tale
 ---
 # Plan: Close Transcluded In-Progress Tasks with Ctrl+Enter

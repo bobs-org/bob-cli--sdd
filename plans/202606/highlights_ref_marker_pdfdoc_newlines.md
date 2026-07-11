@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 08:57:32
 status: done
-prompt: sdd/prompts/202606/highlights_ref_marker_pdfdoc_newlines.md
+prompt: sdd/plans/202606/prompts/highlights_ref_marker_pdfdoc_newlines.md
 tier: tale
 ---
 # Plan: Preserve PDF Literal Marker Newlines

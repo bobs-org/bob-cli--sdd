@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 12:46:12
 status: done
-prompt: sdd/prompts/202606/obsidian_backslash_pipe_dash_tasks.md
+prompt: sdd/plans/202606/prompts/obsidian_backslash_pipe_dash_tasks.md
 tier: tale
 ---
 # Plan: `\|` Keymap — Focus `dash.md`, Jump to `## Tasks`, Redraw at Top (`zt`)

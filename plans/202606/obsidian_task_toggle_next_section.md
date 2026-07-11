@@ -2,7 +2,7 @@
 title: Obsidian Task Toggle Next-Section Routing
 create_time: 2026-06-19 07:51:28
 status: done
-prompt: sdd/prompts/202606/obsidian_task_toggle_next_section.md
+prompt: sdd/plans/202606/prompts/obsidian_task_toggle_next_section.md
 tier: tale
 ---
 

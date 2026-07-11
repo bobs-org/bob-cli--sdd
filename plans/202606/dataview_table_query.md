@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 15:50:33
 status: done
-prompt: sdd/prompts/202606/dataview_table_query.md
+prompt: sdd/plans/202606/prompts/dataview_table_query.md
 tier: tale
 ---
 # Plan: Fix `bob dataview` TABLE Query Behavior

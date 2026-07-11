@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 09:27:22
 status: wip
-prompt: sdd/prompts/202606/bob_collect_done_crontab.md
+prompt: sdd/plans/202606/prompts/bob_collect_done_crontab.md
 tier: tale
 ---
 # Plan: Add a nightly `bob collect-done` crontab entry

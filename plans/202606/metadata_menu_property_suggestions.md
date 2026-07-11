@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 09:56:36
 status: wip
-prompt: sdd/prompts/202606/metadata_menu_property_suggestions.md
+prompt: sdd/plans/202606/prompts/metadata_menu_property_suggestions.md
 tier: tale
 ---
 # Plan: Metadata Menu Property Suggestions

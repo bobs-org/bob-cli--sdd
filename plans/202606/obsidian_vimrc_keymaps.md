@@ -2,7 +2,7 @@
 title: Obsidian Vimrc Keymap Migration Plan
 create_time: 2026-06-05 13:59:25
 status: done
-prompt: sdd/prompts/202606/obsidian_vimrc_keymaps.md
+prompt: sdd/plans/202606/prompts/obsidian_vimrc_keymaps.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 18:30:41
 status: done
-prompt: sdd/prompts/202606/ref_task_block_id_migration.md
+prompt: sdd/plans/202606/prompts/ref_task_block_id_migration.md
 tier: tale
 ---
 # Plan: Migrate `[[ref]]` Note `^task` Block IDs to `^ref`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 11:11:47
 status: wip
-prompt: sdd/prompts/202606/obsidian_task_toggle_center_after_move.md
+prompt: sdd/plans/202606/prompts/obsidian_task_toggle_center_after_move.md
 tier: tale
 ---
 

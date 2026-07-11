@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 07:44:23
 status: done
-prompt: sdd/prompts/202606/collect_done.md
+prompt: sdd/plans/202606/prompts/collect_done.md
 bead_id: bob-cli-2
 tier: epic
 ---

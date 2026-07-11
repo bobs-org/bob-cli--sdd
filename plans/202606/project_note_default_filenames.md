@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 17:18:40
 status: wip
-prompt: sdd/prompts/202606/project_note_default_filenames.md
+prompt: sdd/plans/202606/prompts/project_note_default_filenames.md
 tier: tale
 ---
 # Plan: Default Filenames for New Project Notes

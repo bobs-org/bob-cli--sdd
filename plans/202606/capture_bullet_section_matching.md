@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 09:38:09
 status: done
-prompt: sdd/prompts/202606/capture_bullet_section_matching.md
+prompt: sdd/plans/202606/prompts/capture_bullet_section_matching.md
 tier: tale
 ---
 # Plan: Capture Bullet Section Matching Refinement

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 12:38:22
 status: done
-prompt: sdd/prompts/202606/pomodoro_ctrl_enter_close_and_create.md
+prompt: sdd/plans/202606/prompts/pomodoro_ctrl_enter_close_and_create.md
 tier: tale
 ---
 # Plan: Pomodoro "Close All and Create Next" Behavior for `<Ctrl+Enter>`

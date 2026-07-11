@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 06:15:47
 status: done
-prompt: sdd/prompts/202606/obsidian_backslash_daily_open_tab.md
+prompt: sdd/plans/202606/prompts/obsidian_backslash_daily_open_tab.md
 tier: tale
 ---
 # Plan: Reuse Open Daily Tab For Obsidian `\\`

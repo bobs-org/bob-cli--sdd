@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 07:52:49
 status: done
-prompt: sdd/prompts/202606/conditional_pomodoro_creation.md
+prompt: sdd/plans/202606/prompts/conditional_pomodoro_creation.md
 tier: tale
 ---
 # Conditional Pomodoro Creation Plan

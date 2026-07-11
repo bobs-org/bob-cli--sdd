@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 12:56:06
 status: wip
-prompt: sdd/prompts/202606/ob_sync_continuous_polling_fix.md
+prompt: sdd/plans/202606/prompts/ob_sync_continuous_polling_fix.md
 tier: tale
 ---
 # Plan: Make Bob Obsidian Sync Resilient to Missed Watch Events

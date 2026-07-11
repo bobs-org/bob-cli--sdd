@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 11:10:39
 status: done
-prompt: sdd/prompts/202606/transcluded_ctrl_enter_tasks.md
+prompt: sdd/plans/202606/prompts/transcluded_ctrl_enter_tasks.md
 tier: tale
 ---
 # Plan: Ctrl+Enter Completion for Transcluded Obsidian Tasks

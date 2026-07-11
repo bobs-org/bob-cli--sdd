@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 07:06:35
 status: done
-prompt: sdd/prompts/202606/obsidian_enter_current_line.md
+prompt: sdd/plans/202606/prompts/obsidian_enter_current_line.md
 tier: tale
 ---
 # Obsidian Vim Enter Current-Line Plan

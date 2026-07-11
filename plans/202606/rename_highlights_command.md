@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 11:01:11
 status: done
-prompt: sdd/prompts/202606/rename_highlights_command.md
+prompt: sdd/plans/202606/prompts/rename_highlights_command.md
 tier: tale
 ---
 # Plan: Rename `bob highlights-ref` to `bob highlights`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 13:02:53
 status: wip
-prompt: sdd/prompts/202606/vim_surround_fixes.md
+prompt: sdd/plans/202606/prompts/vim_surround_fixes.md
 tier: tale
 ---
 # Plan: Fix bob-vim-surround cursor jump and unsupported characters

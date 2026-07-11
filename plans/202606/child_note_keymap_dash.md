@@ -1,7 +1,7 @@
 ---
 status: planned
 create_time: 2026-06-03 13:03:44
-prompt: sdd/prompts/202606/child_note_keymap_dash.md
+prompt: sdd/plans/202606/prompts/child_note_keymap_dash.md
 tier: tale
 ---
 

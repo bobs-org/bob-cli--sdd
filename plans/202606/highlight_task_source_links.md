@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 11:13:29
 status: done
-prompt: sdd/prompts/202606/highlight_task_source_links.md
+prompt: sdd/plans/202606/prompts/highlight_task_source_links.md
 tier: tale
 ---
 # Plan: Link Annotation-Created Tasks Back to Their Source Highlight Block

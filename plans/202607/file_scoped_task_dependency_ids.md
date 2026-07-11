@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 16:38:12
 status: done
-prompt: .sase/sdd/prompts/202607/file_scoped_task_dependency_ids.md
+prompt: .sase/sdd/plans/202607/prompts/file_scoped_task_dependency_ids.md
 tier: tale
 ---
 # Plan: File-scoped Obsidian block IDs with path-qualified task dependency IDs

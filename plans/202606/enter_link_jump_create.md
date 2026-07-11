@@ -1,7 +1,7 @@
 ---
 status: planned
 create_time: 2026-06-05 14:42:06
-prompt: sdd/prompts/202606/enter_link_jump_create.md
+prompt: sdd/plans/202606/prompts/enter_link_jump_create.md
 tier: tale
 ---
 

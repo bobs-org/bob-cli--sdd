@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 07:12:14
 status: done
-prompt: sdd/prompts/202606/highlights_ref_nested_lib_1.md
+prompt: sdd/plans/202606/prompts/highlights_ref_nested_lib_1.md
 tier: tale
 ---
 # Plan: Support Nested `bob highlights-ref` Library Reference Types

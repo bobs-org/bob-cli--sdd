@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 09:22:33
 status: done
-prompt: sdd/prompts/202606/fix_vim_surround_keymaps.md
+prompt: sdd/plans/202606/prompts/fix_vim_surround_keymaps.md
 tier: tale
 ---
 # Plan: Fix all broken `bob-vim-surround` keymaps (`ys`, `cs`, `ds`)

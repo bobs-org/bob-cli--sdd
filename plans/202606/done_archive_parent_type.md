@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 09:14:01
 status: done
-prompt: sdd/prompts/202606/done_archive_parent_type.md
+prompt: sdd/plans/202606/prompts/done_archive_parent_type.md
 tier: tale
 ---
 # Plan: Move Done Archive Notes To Source Parent Links

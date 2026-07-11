@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 09:04:32
 status: done
-prompt: sdd/prompts/202606/highlights_image_selections.md
+prompt: sdd/plans/202606/prompts/highlights_image_selections.md
 tier: tale
 ---
 # Highlights Image Selection Support Plan

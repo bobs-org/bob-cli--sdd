@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 16:58:08
 status: done
-prompt: sdd/prompts/202606/obsidian_projects.md
+prompt: sdd/plans/202606/prompts/obsidian_projects.md
 bead_id: bob-cli-6
 tier: epic
 ---

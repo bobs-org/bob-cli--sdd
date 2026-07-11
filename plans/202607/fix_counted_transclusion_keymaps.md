@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 20:33:41
 status: done
-prompt: sdd/prompts/202607/fix_counted_transclusion_keymaps.md
+prompt: sdd/plans/202607/prompts/fix_counted_transclusion_keymaps.md
 tier: tale
 ---
 # Plan: Fix Non-Working Counted `!` / `@` Transclusion Keymaps

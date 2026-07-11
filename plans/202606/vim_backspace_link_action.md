@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 15:15:35
 status: planned
-prompt: sdd/prompts/202606/vim_backspace_link_action.md
+prompt: sdd/plans/202606/prompts/vim_backspace_link_action.md
 tier: tale
 ---
 

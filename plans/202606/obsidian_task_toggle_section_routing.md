@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 10:09:52
 status: wip
-prompt: sdd/prompts/202606/obsidian_task_toggle_section_routing.md
+prompt: sdd/plans/202606/prompts/obsidian_task_toggle_section_routing.md
 tier: tale
 ---
 # Plan: Route Ctrl+Shift+] Task Toggles Between Tasks and Future Work

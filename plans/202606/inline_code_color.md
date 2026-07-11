@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 15:00:25
 status: wip
-prompt: sdd/prompts/202606/inline_code_color.md
+prompt: sdd/plans/202606/prompts/inline_code_color.md
 tier: tale
 ---
 # Plan: Recolor inline-code chips to a distinct, more visible hue

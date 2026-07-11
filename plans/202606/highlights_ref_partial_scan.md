@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 10:27:50
 status: done
-prompt: sdd/prompts/202606/highlights_ref_partial_scan.md
+prompt: sdd/plans/202606/prompts/highlights_ref_partial_scan.md
 tier: tale
 ---
 # Make highlights-ref scan continue past bad PDFs

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 13:50:39
 status: done
-prompt: sdd/prompts/202606/obsidian_legacy_links.md
+prompt: sdd/plans/202606/prompts/obsidian_legacy_links.md
 tier: tale
 ---
 # Obsidian Legacy Link Migration Plan

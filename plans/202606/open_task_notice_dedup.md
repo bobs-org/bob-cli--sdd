@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 08:08:54
 status: proposed
-prompt: sdd/prompts/202606/open_task_notice_dedup.md
+prompt: sdd/plans/202606/prompts/open_task_notice_dedup.md
 tier: tale
 ---
 

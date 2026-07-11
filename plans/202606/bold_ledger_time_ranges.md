@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 12:12:46
 status: done
-prompt: sdd/prompts/202606/bold_ledger_time_ranges.md
+prompt: sdd/plans/202606/prompts/bold_ledger_time_ranges.md
 tier: tale
 ---
 # Bold Ledger Time Ranges Plan

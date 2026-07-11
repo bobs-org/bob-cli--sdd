@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 19:24:59
 status: done
-prompt: sdd/prompts/202607/task_query_half_page_scroll.md
+prompt: sdd/plans/202607/prompts/task_query_half_page_scroll.md
 tier: tale
 ---
 # Plan: Natural Ctrl-d/u Scrolling Through Rendered Tasks Queries

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 08:47:51
 status: done
-prompt: .sase/sdd/prompts/202607/project_note_properties.md
+prompt: .sase/sdd/plans/202607/prompts/project_note_properties.md
 tier: tale
 ---
 # Plan: Project-note properties in the Obsidian bullet-property picker

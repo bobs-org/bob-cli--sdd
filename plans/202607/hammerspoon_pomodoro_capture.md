@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 16:11:12
 status: wip
-prompt: .sase/sdd/prompts/202607/hammerspoon_pomodoro_capture.md
+prompt: .sase/sdd/plans/202607/prompts/hammerspoon_pomodoro_capture.md
 tier: tale
 ---
 # Plan: Complete the Hammerspoon Pomodoro-linked capture flow

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 08:33:06
 status: done
-prompt: sdd/prompts/202606/move_bob_tasks_to_bob_v1.md
+prompt: sdd/plans/202606/prompts/move_bob_tasks_to_bob_v1.md
 tier: tale
 ---
 # Plan: Move bob.md Tasks into bob_v1.md

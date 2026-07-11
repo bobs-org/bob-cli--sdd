@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 08:34:52
 status: done
-prompt: sdd/prompts/202606/pomodoro_jump_center_regression.md
+prompt: sdd/plans/202606/prompts/pomodoro_jump_center_regression.md
 tier: tale
 ---
 # Plan: Fix Broken `zz`-Style Recenter for the `\\` Obsidian Pomodoro Jump

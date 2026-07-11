@@ -1,7 +1,7 @@
 ---
 status: planned
 create_time: 2026-06-03 11:43:31
-prompt: sdd/prompts/202606/obsidian_child_popup_usability.md
+prompt: sdd/plans/202606/prompts/obsidian_child_popup_usability.md
 tier: tale
 ---
 

@@ -2,7 +2,7 @@
 title: Obsidian Task Toggle Promotion Routing to Tasks
 status: done
 create_time: 2026-06-19 08:16:37
-prompt: sdd/prompts/202606/obsidian_task_toggle_tasks_promotion.md
+prompt: sdd/plans/202606/prompts/obsidian_task_toggle_tasks_promotion.md
 tier: tale
 ---
 

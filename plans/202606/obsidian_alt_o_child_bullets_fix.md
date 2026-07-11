@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 18:46:13
 status: done
-prompt: sdd/prompts/202606/obsidian_alt_o_child_bullets_fix.md
+prompt: sdd/plans/202606/prompts/obsidian_alt_o_child_bullets_fix.md
 tier: tale
 ---
 # Fix: Alt+o / Alt+O Child-Bullet Keymaps Do Not Fire in Obsidian

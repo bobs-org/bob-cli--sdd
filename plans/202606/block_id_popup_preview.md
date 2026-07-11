@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 15:10:47
 status: done
-prompt: sdd/prompts/202606/block_id_popup_preview.md
+prompt: sdd/plans/202606/prompts/block_id_popup_preview.md
 tier: tale
 ---
 # Plan: Show Block Contents in the Block ID Rename Popup

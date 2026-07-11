@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 11:51:38
 status: proposed
-prompt: sdd/prompts/202606/obsidian_alt_bracket_bullet_formatting.md
+prompt: sdd/plans/202606/prompts/obsidian_alt_bracket_bullet_formatting.md
 tier: tale
 ---
 

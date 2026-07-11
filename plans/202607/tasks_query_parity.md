@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 13:42:28
 status: done
-prompt: .sase/sdd/prompts/202607/tasks_query_parity.md
+prompt: .sase/sdd/plans/202607/prompts/tasks_query_parity.md
 bead_id: bob-cli-9
 tier: epic
 ---

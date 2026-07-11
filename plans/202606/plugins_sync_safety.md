@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 08:29:43
 status: done
-prompt: sdd/prompts/202606/plugins_sync_safety.md
+prompt: sdd/plans/202606/prompts/plugins_sync_safety.md
 tier: tale
 ---
 # Plan: Make `bob plugins sync` safe — diffs, dry-run previews, and backups

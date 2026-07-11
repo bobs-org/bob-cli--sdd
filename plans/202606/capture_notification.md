@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 21:35:12
 status: wip
-prompt: sdd/prompts/202606/capture_notification.md
+prompt: sdd/plans/202606/prompts/capture_notification.md
 tier: tale
 ---
 # Plan: Beautiful macOS notifications for the `bob capture` keymap

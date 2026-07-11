@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 13:11:36
 status: done
-prompt: sdd/prompts/202606/mark_closed_subprojects.md
+prompt: sdd/plans/202606/prompts/mark_closed_subprojects.md
 tier: tale
 ---
 # Plan: Mark closed sub-projects instead of removing them

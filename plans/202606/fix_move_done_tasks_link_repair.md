@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-22 08:11:19
 status: done
-prompt: sdd/prompts/202606/fix_move_done_tasks_link_repair.md
+prompt: sdd/plans/202606/prompts/fix_move_done_tasks_link_repair.md
 tier: tale
 ---
 # Fix `bob move-done-tasks` block-link repair

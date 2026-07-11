@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 21:37:31
 status: proposed
-prompt: sdd/prompts/202606/strip_existing_block_suffix_for_caret_completion.md
+prompt: sdd/plans/202606/prompts/strip_existing_block_suffix_for_caret_completion.md
 tier: tale
 ---
 

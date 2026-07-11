@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 10:03:44
 status: done
-prompt: sdd/prompts/202606/hammerspoon_capture_trailing_at_picker.md
+prompt: sdd/plans/202606/prompts/hammerspoon_capture_trailing_at_picker.md
 tier: tale
 ---
 # Plan: Hammerspoon Capture Picker Only On Trailing Bare At

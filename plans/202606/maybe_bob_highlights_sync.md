@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 11:52:31
 status: done
-prompt: sdd/prompts/202606/maybe_bob_highlights_sync.md
+prompt: sdd/plans/202606/prompts/maybe_bob_highlights_sync.md
 tier: tale
 ---
 # Plan: Add `maybe_bob_highlights_sync`

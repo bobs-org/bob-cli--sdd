@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 07:07:50
 status: wip
-prompt: sdd/prompts/202606/obsidian_delete_tab_keymap_migration.md
+prompt: sdd/plans/202606/prompts/obsidian_delete_tab_keymap_migration.md
 tier: tale
 ---
 # Plan: Shorten Obsidian Close-Tab Vim Keymaps

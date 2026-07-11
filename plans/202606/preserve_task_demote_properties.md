@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 15:09:53
 status: wip
-prompt: sdd/prompts/202606/preserve_task_demote_properties.md
+prompt: sdd/plans/202606/prompts/preserve_task_demote_properties.md
 tier: tale
 ---
 # Plan: Preserve All Inline Properties When Demoting Obsidian Tasks

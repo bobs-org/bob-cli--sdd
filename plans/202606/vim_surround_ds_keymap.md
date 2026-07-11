@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 23:11:32
 status: done
-prompt: sdd/prompts/202606/vim_surround_ds_keymap.md
+prompt: sdd/plans/202606/prompts/vim_surround_ds_keymap.md
 tier: tale
 ---
 # Plan: Add `ds{target}` (delete surround) to `bob-vim-surround`

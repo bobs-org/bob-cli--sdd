@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 22:07:09
 status: done
-prompt: sdd/prompts/202606/collect_done_block_id_dedup.md
+prompt: sdd/plans/202606/prompts/collect_done_block_id_dedup.md
 tier: tale
 ---
 # Plan: `bob collect-done` archive block ID de-duplication

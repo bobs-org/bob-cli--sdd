@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 13:05:07
 status: wip
-prompt: sdd/prompts/202606/dash_tasks_zt_redraw_fix.md
+prompt: sdd/plans/202606/prompts/dash_tasks_zt_redraw_fix.md
 tier: tale
 ---
 # Plan: Fix `\|` Dash Tasks Jump — `## Tasks` Not Redrawn at Top of Viewport

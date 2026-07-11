@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 08:12:23
 status: done
-prompt: sdd/prompts/202606/obsidian_ctrl_hotkey_rotation.md
+prompt: sdd/plans/202606/prompts/obsidian_ctrl_hotkey_rotation.md
 tier: tale
 ---
 # Obsidian Ctrl Hotkey Rotation Plan

@@ -3,7 +3,7 @@ title: 'Fix #2: Alt+o / Alt+O Child-Bullet Keymaps Still Dead — Broken Normal-
   Gate'
 create_time: 2026-06-15 07:15:05
 status: proposed
-prompt: sdd/prompts/202606/obsidian_alt_o_child_bullets_fix2.md
+prompt: sdd/plans/202606/prompts/obsidian_alt_o_child_bullets_fix2.md
 tier: tale
 ---
 

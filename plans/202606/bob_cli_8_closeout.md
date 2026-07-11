@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 12:13:23
 status: wip
-prompt: sdd/prompts/202606/bob_cli_8_closeout.md
+prompt: sdd/plans/202606/prompts/bob_cli_8_closeout.md
 tier: tale
 ---
 # bob-cli-8 Closeout Verification Cleanup

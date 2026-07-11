@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 12:47:34
 status: done
-prompt: sdd/prompts/202606/dataview_mvp.md
+prompt: sdd/plans/202606/prompts/dataview_mvp.md
 bead_id: bob-cli-3
 tier: epic
 ---

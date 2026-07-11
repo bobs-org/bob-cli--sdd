@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 15:49:03
 status: done
-prompt: sdd/prompts/202606/capture_at_hash_picker.md
+prompt: sdd/plans/202606/prompts/capture_at_hash_picker.md
 tier: tale
 ---
 # Plan: `@#section` Capture Picker Marker

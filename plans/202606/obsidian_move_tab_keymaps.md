@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 14:21:11
 status: done
-prompt: sdd/prompts/202606/obsidian_move_tab_keymaps.md
+prompt: sdd/plans/202606/prompts/obsidian_move_tab_keymaps.md
 tier: tale
 ---
 # Obsidian Move-Tab Keymaps (`Ctrl+Shift+,` / `Ctrl+Shift+.`)

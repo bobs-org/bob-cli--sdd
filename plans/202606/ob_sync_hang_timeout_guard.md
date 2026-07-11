@@ -3,7 +3,7 @@ title: Stop ob-sync-bob from stalling when a single `ob sync` hangs
 status: done
 date: 2026-06-14
 create_time: 2026-06-14 07:24:41
-prompt: sdd/prompts/202606/ob_sync_hang_timeout_guard.md
+prompt: sdd/plans/202606/prompts/ob_sync_hang_timeout_guard.md
 tier: tale
 ---
 

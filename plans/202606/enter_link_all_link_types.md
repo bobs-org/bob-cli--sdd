@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 15:03:03
 status: done
-prompt: sdd/prompts/202606/enter_link_all_link_types.md
+prompt: sdd/plans/202606/prompts/enter_link_all_link_types.md
 tier: tale
 ---
 # Enter Link Jump/Create: Full Obsidian Link-Type Support (incl. Block Links)

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 18:08:28
 status: done
-prompt: sdd/prompts/202606/fix_bad_area_type_links.md
+prompt: sdd/plans/202606/prompts/fix_bad_area_type_links.md
 tier: tale
 ---
 # Plan: Fix Bad `[[area]]` Type Links in the Bob Vault

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 16:20:45
 status: done
-prompt: sdd/prompts/202606/bob_capture_command.md
+prompt: sdd/plans/202606/prompts/bob_capture_command.md
 tier: tale
 ---
 # Plan: `bob capture` — Native Task Capture Command + Thin Hammerspoon Keymap

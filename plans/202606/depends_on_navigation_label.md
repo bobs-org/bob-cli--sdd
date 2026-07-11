@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 10:58:30
 status: done
-prompt: sdd/prompts/202606/depends_on_navigation_label.md
+prompt: sdd/plans/202606/prompts/depends_on_navigation_label.md
 tier: tale
 ---
 # Plan: Rename dependency navigation bullets to `DEPENDS ON`

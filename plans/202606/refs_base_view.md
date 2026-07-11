@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 20:57:49
 status: wip
-prompt: sdd/prompts/202606/refs_base_view.md
+prompt: sdd/plans/202606/prompts/refs_base_view.md
 tier: tale
 ---
 # Plan: A Beautiful Obsidian Bases View for Ref Notes

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 19:22:57
 status: done
-prompt: sdd/prompts/202606/native_dataview_folder_source_parity.md
+prompt: sdd/plans/202606/prompts/native_dataview_folder_source_parity.md
 tier: tale
 ---
 # Native Dataview Folder Source Parity

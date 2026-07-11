@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 11:04:01
 status: done
-prompt: .sase/sdd/prompts/202607/dismiss_property_picker_after_delete.md
+prompt: .sase/sdd/plans/202607/prompts/dismiss_property_picker_after_delete.md
 tier: tale
 ---
 # Dismiss the Bullet Property Picker After Deletion

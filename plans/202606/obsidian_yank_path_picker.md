@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 14:58:37
 status: done
-prompt: sdd/prompts/202606/obsidian_yank_path_picker.md
+prompt: sdd/plans/202606/prompts/obsidian_yank_path_picker.md
 tier: tale
 ---
 # Obsidian Yank Path Picker Plan

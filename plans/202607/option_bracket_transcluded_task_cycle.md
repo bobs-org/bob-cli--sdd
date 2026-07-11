@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 12:38:02
 status: wip
-prompt: sdd/prompts/202607/option_bracket_transcluded_task_cycle.md
+prompt: sdd/plans/202607/prompts/option_bracket_transcluded_task_cycle.md
 tier: tale
 ---
 # Plan: Replace `@` Transcluded-Task Keymap with Counted `<option+[>` / `<option+]>` Cycling

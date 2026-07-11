@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-30 09:30:16
 status: done
-prompt: sdd/prompts/202606/blocked_task_marking.md
+prompt: sdd/plans/202606/prompts/blocked_task_marking.md
 tier: tale
 ---
 # Plan: Mark dependency-blocked tasks in the `^^` task-link picker

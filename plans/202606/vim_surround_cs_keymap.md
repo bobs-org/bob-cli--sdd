@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 22:58:15
 status: done
-prompt: sdd/prompts/202606/vim_surround_cs_keymap.md
+prompt: sdd/plans/202606/prompts/vim_surround_cs_keymap.md
 tier: tale
 ---
 # Plan: Add `cs{target}{replacement}` (change surround) to `bob-vim-surround`

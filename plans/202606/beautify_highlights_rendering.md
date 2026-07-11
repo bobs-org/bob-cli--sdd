@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-10 14:02:59
 status: done
-prompt: sdd/prompts/202606/beautify_highlights_rendering.md
+prompt: sdd/plans/202606/prompts/beautify_highlights_rendering.md
 tier: tale
 ---
 # Beautify PDF Highlight Rendering in Reference Notes

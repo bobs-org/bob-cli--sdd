@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 08:20:32
 status: done
-prompt: sdd/prompts/202606/capture_section_picker.md
+prompt: sdd/plans/202606/prompts/capture_section_picker.md
 tier: tale
 ---
 # Plan: Section picker for trailing `#` capture marker

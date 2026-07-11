@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 05:18:31
 status: done
-prompt: sdd/prompts/202606/cli_rules_conformance.md
+prompt: sdd/plans/202606/prompts/cli_rules_conformance.md
 tier: tale
 ---
 # Plan: Bring Bob CLI Help And Ordering Into CLI Rules Conformance

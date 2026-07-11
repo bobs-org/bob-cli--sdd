@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 10:19:32
 status: wip
-prompt: sdd/prompts/202606/eat_restaurant_migration.md
+prompt: sdd/plans/202606/prompts/eat_restaurant_migration.md
 tier: tale
 ---
 # Eat Restaurant Migration Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 14:01:11
 status: done
-prompt: sdd/prompts/202606/projects_sync_subproject_links.md
+prompt: sdd/plans/202606/prompts/projects_sync_subproject_links.md
 tier: tale
 ---
 # Plan: `bob projects sync` — maintain sub-project link bullets under the `^prj` task

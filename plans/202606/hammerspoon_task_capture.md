@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 11:33:25
 status: done
-prompt: sdd/prompts/202606/hammerspoon_task_capture.md
+prompt: sdd/plans/202606/prompts/hammerspoon_task_capture.md
 tier: tale
 ---
 # Fix Hammerspoon Task Capture Nested-Content Insertion

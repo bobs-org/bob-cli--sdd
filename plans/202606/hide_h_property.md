@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 09:13:18
 status: done
-prompt: sdd/prompts/202606/hide_h_property.md
+prompt: sdd/plans/202606/prompts/hide_h_property.md
 tier: tale
 ---
 # Plan: Hide the `h` Highlight Marker in Obsidian

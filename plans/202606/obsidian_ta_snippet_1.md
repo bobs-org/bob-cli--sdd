@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 17:00:35
 status: wip
-prompt: sdd/prompts/202606/obsidian_ta_snippet_1.md
+prompt: sdd/plans/202606/prompts/obsidian_ta_snippet_1.md
 tier: tale
 ---
 # Obsidian `ta` Task Snippet Plan

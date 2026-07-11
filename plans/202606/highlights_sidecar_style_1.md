@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 07:29:36
 status: done
-prompt: sdd/prompts/202606/highlights_sidecar_style_1.md
+prompt: sdd/plans/202606/prompts/highlights_sidecar_style_1.md
 tier: tale
 ---
 # Highlights Linked Sidecar Support Plan

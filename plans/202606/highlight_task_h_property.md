@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 08:45:16
 status: done
-prompt: sdd/prompts/202606/highlight_task_h_property.md
+prompt: sdd/plans/202606/prompts/highlight_task_h_property.md
 tier: tale
 ---
 # Plan: Restore property-based highlight task tracking with `h`

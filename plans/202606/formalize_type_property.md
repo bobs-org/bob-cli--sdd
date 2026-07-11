@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 13:04:16
 status: wip
-prompt: sdd/prompts/202606/formalize_type_property.md
+prompt: sdd/plans/202606/prompts/formalize_type_property.md
 tier: tale
 ---
 # Plan: Formalize the `type` Frontmatter Property

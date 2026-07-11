@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 09:11:25
 status: done
-prompt: sdd/prompts/202606/capture_bullets.md
+prompt: sdd/plans/202606/prompts/capture_bullets.md
 tier: tale
 ---
 # Plan: Add bullet captures to `bob capture`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 16:50:29
 status: done
-prompt: sdd/prompts/202606/hammerspoon_capture_delegation.md
+prompt: sdd/plans/202606/prompts/hammerspoon_capture_delegation.md
 tier: tale
 ---
 # Plan: Delegate Hammerspoon Task Capture to `bob capture`

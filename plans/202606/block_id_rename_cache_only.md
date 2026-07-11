@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 10:04:09
 status: done
-prompt: sdd/prompts/202606/block_id_rename_cache_only.md
+prompt: sdd/plans/202606/prompts/block_id_rename_cache_only.md
 tier: tale
 ---
 # Plan: Make `^`-trigger block-ID rename fast (cache-only candidate discovery)

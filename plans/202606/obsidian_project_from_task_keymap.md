@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 09:54:15
 status: done
-prompt: sdd/prompts/202606/obsidian_project_from_task_keymap.md
+prompt: sdd/plans/202606/prompts/obsidian_project_from_task_keymap.md
 tier: tale
 ---
 # Obsidian `<Ctrl+Alt+Shift+N>` — Create Project Note From Selected Task

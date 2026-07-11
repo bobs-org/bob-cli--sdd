@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 10:25:26
 status: done
-prompt: sdd/prompts/202606/obsidian_project_from_task_block_id.md
+prompt: sdd/plans/202606/prompts/obsidian_project_from_task_block_id.md
 tier: tale
 ---
 # Obsidian Project-From-Task: Block-ID-Derived Filename + Block-Link Rewriting

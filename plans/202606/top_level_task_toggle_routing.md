@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 10:29:40
 status: proposed
-prompt: sdd/prompts/202606/top_level_task_toggle_routing.md
+prompt: sdd/plans/202606/prompts/top_level_task_toggle_routing.md
 tier: tale
 ---
 

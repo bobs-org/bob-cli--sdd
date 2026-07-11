@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 12:33:51
 status: done
-prompt: sdd/prompts/202607/plugins_git_pull.md
+prompt: sdd/plans/202607/prompts/plugins_git_pull.md
 tier: tale
 ---
 # Plan: `git pull` the bob-plugins repo before `bob plugins list` / `sync`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 20:53:29
 status: done
-prompt: sdd/prompts/202606/collect_done_obsidian_link_repair.md
+prompt: sdd/plans/202606/prompts/collect_done_obsidian_link_repair.md
 tier: tale
 ---
 # Plan: Repair Obsidian Links When `bob collect-done` Moves Tasks

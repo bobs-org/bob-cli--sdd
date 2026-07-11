@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 13:15:30
 status: done
-prompt: sdd/prompts/202606/pomodoro_create_center.md
+prompt: sdd/plans/202606/prompts/pomodoro_create_center.md
 tier: tale
 ---
 

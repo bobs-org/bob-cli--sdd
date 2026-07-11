@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 10:09:11
 status: done
-prompt: sdd/prompts/202606/pomodoro_runtime_parentheses_1.md
+prompt: sdd/plans/202606/prompts/pomodoro_runtime_parentheses_1.md
 tier: tale
 ---
 # Pomodoro Runtime Parentheses Plan

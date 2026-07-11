@@ -2,7 +2,7 @@
 title: Obsidian Bold Ledger Follow-Up Plan
 create_time: 2026-06-02 12:26:50
 status: done
-prompt: sdd/prompts/202606/obsidian_bold_ledger_followup.md
+prompt: sdd/plans/202606/prompts/obsidian_bold_ledger_followup.md
 tier: tale
 ---
 

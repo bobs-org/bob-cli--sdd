@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 21:15:16
 status: done
-prompt: sdd/prompts/202606/split_wiki_link_markers.md
+prompt: sdd/plans/202606/prompts/split_wiki_link_markers.md
 tier: tale
 ---
 # Split Obsidian Wiki Link `^` and `@` Trigger Behavior

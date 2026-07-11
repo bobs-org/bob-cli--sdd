@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 18:18:50
 status: done
-prompt: .sase/sdd/prompts/202607/rehome_completed_pomodoro_links.md
+prompt: .sase/sdd/plans/202607/prompts/rehome_completed_pomodoro_links.md
 tier: tale
 ---
 # Plan: Rehome Completed Pomodoro Task Links

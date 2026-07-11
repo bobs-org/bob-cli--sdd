@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 13:51:08
 status: done
-prompt: sdd/prompts/202606/cli_short_options.md
+prompt: sdd/plans/202606/prompts/cli_short_options.md
 tier: tale
 ---
 # Plan: Require Short Options for All Long CLI Options

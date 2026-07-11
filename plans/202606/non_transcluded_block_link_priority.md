@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 15:43:29
 status: wip
-prompt: sdd/prompts/202606/non_transcluded_block_link_priority.md
+prompt: sdd/plans/202606/prompts/non_transcluded_block_link_priority.md
 tier: tale
 ---
 # Plan: Prioritize Current-Line Obsidian Block Links for Ctrl+6

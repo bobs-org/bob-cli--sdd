@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 23:04:51
 status: done
-prompt: sdd/prompts/202606/daily_dash_keymap.md
+prompt: sdd/plans/202606/prompts/daily_dash_keymap.md
 tier: tale
 ---
 # Daily Dash Keymap Plan

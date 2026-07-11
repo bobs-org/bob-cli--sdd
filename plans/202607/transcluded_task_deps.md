@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 16:08:58
 status: done
-prompt: .sase/sdd/prompts/202607/transcluded_task_deps.md
+prompt: .sase/sdd/plans/202607/prompts/transcluded_task_deps.md
 tier: tale
 ---
 # Plan: Transcluded per-dependency sub-bullets for Obsidian task dependencies

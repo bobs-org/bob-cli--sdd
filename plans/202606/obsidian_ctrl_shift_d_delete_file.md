@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 07:05:59
 status: done
-prompt: sdd/prompts/202606/obsidian_ctrl_shift_d_delete_file.md
+prompt: sdd/plans/202606/prompts/obsidian_ctrl_shift_d_delete_file.md
 tier: tale
 ---
 # Obsidian Ctrl+Shift+D Delete Current File Keymap Plan

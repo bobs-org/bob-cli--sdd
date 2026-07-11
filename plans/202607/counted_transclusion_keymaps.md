@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 19:39:53
 status: done
-prompt: sdd/prompts/202607/counted_transclusion_keymaps.md
+prompt: sdd/plans/202607/prompts/counted_transclusion_keymaps.md
 tier: tale
 ---
 # Plan: Counted `!` and `@` Transcluded Task Keymaps

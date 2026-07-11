@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 08:39:27
 status: done
-prompt: sdd/prompts/202606/highlights_scan_output.md
+prompt: sdd/plans/202606/prompts/highlights_scan_output.md
 tier: tale
 ---
 # Plan: Beautiful, concise `bob highlights scan` output

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 13:31:50
 status: done
-prompt: .sase/sdd/prompts/202607/capture_pomodoro_links.md
+prompt: .sase/sdd/plans/202607/prompts/capture_pomodoro_links.md
 tier: tale
 ---
 # Plan: Add Pomodoro-linked `bob capture` tasks

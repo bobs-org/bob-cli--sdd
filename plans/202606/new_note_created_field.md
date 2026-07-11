@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 06:58:30
 status: wip
-prompt: sdd/prompts/202606/new_note_created_field.md
+prompt: sdd/plans/202606/prompts/new_note_created_field.md
 tier: tale
 ---
 # Plan: Add `created` Datetime to `new_note.md`

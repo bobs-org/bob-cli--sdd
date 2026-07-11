@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 14:44:55
 status: wip
-prompt: sdd/prompts/202606/inline_code_styling.md
+prompt: sdd/plans/202606/prompts/inline_code_styling.md
 tier: tale
 ---
 # Plan: Beautiful inline code styling for the Bob Obsidian vault

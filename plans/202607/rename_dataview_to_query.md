@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 12:57:42
 status: done
-prompt: .sase/sdd/prompts/202607/rename_dataview_to_query.md
+prompt: .sase/sdd/plans/202607/prompts/rename_dataview_to_query.md
 tier: tale
 ---
 # Rename `bob dataview` to `bob query`

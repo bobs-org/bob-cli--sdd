@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 14:36:04
 status: done
-prompt: sdd/prompts/202606/obsidian_yank_path_keymap_fix.md
+prompt: sdd/plans/202606/prompts/obsidian_yank_path_keymap_fix.md
 tier: tale
 ---
 # Obsidian Yank Path Keymap Fix Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 13:46:05
 status: done
-prompt: sdd/prompts/202606/projects_sync_subprojects_1.md
+prompt: sdd/plans/202606/prompts/projects_sync_subprojects_1.md
 tier: tale
 ---
 # Plan: `bob projects sync` — consider sub-projects for the `^prj` `[p::2]` field

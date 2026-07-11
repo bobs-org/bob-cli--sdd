@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 10:26:08
 status: done
-prompt: sdd/prompts/202606/obsidian_ctrl_shift_bracket_task_toggle.md
+prompt: sdd/plans/202606/prompts/obsidian_ctrl_shift_bracket_task_toggle.md
 tier: tale
 ---
 # Plan: Obsidian Ctrl+Shift+] Proper-Task Toggle

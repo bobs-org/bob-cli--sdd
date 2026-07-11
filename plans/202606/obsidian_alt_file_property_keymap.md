@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 08:15:23
 status: done
-prompt: sdd/prompts/202606/obsidian_alt_file_property_keymap.md
+prompt: sdd/plans/202606/prompts/obsidian_alt_file_property_keymap.md
 tier: tale
 ---
 # Obsidian `alt_file` Frontmatter Property + `<Ctrl+,>` Keymap Plan

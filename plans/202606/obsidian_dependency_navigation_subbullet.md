@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 10:18:59
 status: done
-prompt: sdd/prompts/202606/obsidian_dependency_navigation_subbullet.md
+prompt: sdd/plans/202606/prompts/obsidian_dependency_navigation_subbullet.md
 tier: tale
 ---
 # Plan: Add visible dependency block-link child bullets to the local task dependency picker

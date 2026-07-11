@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 16:12:53
 status: done
-prompt: sdd/prompts/202606/revert_embed_fallback_add_ctrl_keymaps.md
+prompt: sdd/plans/202606/prompts/revert_embed_fallback_add_ctrl_keymaps.md
 tier: tale
 ---
 # Revert embed fallback and replace two Vim mappings with Ctrl+Shift hotkeys

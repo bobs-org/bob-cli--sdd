@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 08:00:33
 status: done
-prompt: sdd/prompts/202606/obsidian_child_bullet_tab_indent.md
+prompt: sdd/plans/202606/prompts/obsidian_child_bullet_tab_indent.md
 tier: tale
 ---
 # Fix Obsidian Child-Bullet Indentation

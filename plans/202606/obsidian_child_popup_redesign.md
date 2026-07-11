@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 11:54:19
 status: done
-prompt: sdd/prompts/202606/obsidian_child_popup_redesign.md
+prompt: sdd/plans/202606/prompts/obsidian_child_popup_redesign.md
 tier: tale
 ---
 # Obsidian Child Note Picker — Visual Redesign Plan

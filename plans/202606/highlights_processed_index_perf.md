@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 07:30:23
 status: done
-prompt: sdd/prompts/202606/highlights_processed_index_perf.md
+prompt: sdd/plans/202606/prompts/highlights_processed_index_perf.md
 tier: tale
 ---
 # Plan: Keep `bob highlights` Fast After Annotation-Task Routing

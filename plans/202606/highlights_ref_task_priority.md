@@ -1,7 +1,7 @@
 ---
 status: pending
 create_time: 2026-06-04 15:13:13
-prompt: sdd/prompts/202606/highlights_ref_task_priority.md
+prompt: sdd/plans/202606/prompts/highlights_ref_task_priority.md
 tier: tale
 ---
 

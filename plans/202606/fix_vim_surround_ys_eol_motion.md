@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 09:54:43
 status: wip
-prompt: sdd/prompts/202606/fix_vim_surround_ys_eol_motion.md
+prompt: sdd/plans/202606/prompts/fix_vim_surround_ys_eol_motion.md
 tier: tale
 ---
 # Plan: Fix `ys` with end-of-line motions (`$`) leaving text highlighted instead of surrounding

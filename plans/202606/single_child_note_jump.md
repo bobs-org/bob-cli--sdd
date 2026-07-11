@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 13:19:03
 status: done
-prompt: sdd/prompts/202606/single_child_note_jump.md
+prompt: sdd/plans/202606/prompts/single_child_note_jump.md
 tier: tale
 ---
 # Plan: Single Child Note Direct Jump

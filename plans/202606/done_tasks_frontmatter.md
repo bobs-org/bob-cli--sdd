@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 08:52:25
 status: done
-prompt: sdd/prompts/202606/done_tasks_frontmatter.md
+prompt: sdd/plans/202606/prompts/done_tasks_frontmatter.md
 tier: tale
 ---
 # Plan: `bob collect-done` `done_tasks` frontmatter

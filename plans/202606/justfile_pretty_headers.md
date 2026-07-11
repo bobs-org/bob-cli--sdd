@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 08:33:59
 status: done
-prompt: sdd/prompts/202606/justfile_pretty_headers.md
+prompt: sdd/plans/202606/prompts/justfile_pretty_headers.md
 tier: tale
 ---
 # Justfile Quality Header Redesign

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 10:48:49
 status: done
-prompt: sdd/prompts/202606/highlights_pdf_note_tasks.md
+prompt: sdd/plans/202606/prompts/highlights_pdf_note_tasks.md
 tier: tale
 ---
 # Plan: Create Obsidian Tasks from PDF Note Bullets

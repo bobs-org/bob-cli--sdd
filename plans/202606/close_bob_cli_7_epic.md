@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 19:02:28
 status: done
-prompt: sdd/prompts/202606/close_bob_cli_7_epic.md
+prompt: sdd/plans/202606/prompts/close_bob_cli_7_epic.md
 tier: tale
 ---
 # Plan: Close out epic bead bob-cli-7 (`bob projects` command)

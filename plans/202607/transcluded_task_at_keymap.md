@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 19:15:59
 status: done
-prompt: sdd/prompts/202607/transcluded_task_at_keymap.md
+prompt: sdd/plans/202607/prompts/transcluded_task_at_keymap.md
 tier: tale
 ---
 # Plan: Conditional `@` Keymap for Transcluded Task Starts

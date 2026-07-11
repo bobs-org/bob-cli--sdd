@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 15:41:17
 status: wip
-prompt: .sase/sdd/prompts/202607/restore_hammerspoon_pomodoro_capture.md
+prompt: .sase/sdd/plans/202607/prompts/restore_hammerspoon_pomodoro_capture.md
 tier: tale
 ---
 # Plan: Restore the Hammerspoon Pomodoro-linked capture flow

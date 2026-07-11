@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 10:49:29
 status: done
-prompt: .sase/sdd/prompts/202607/dash_restore_cursor_reveal_fix.md
+prompt: .sase/sdd/plans/202607/prompts/dash_restore_cursor_reveal_fix.md
 tier: tale
 ---
 # Plan: Fix `dash.md` restore landing on `## Projects` — cursor-reveal stomps the query-anchored scroll restore

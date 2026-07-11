@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 09:22:29
 status: done
-prompt: sdd/prompts/202606/remove_highlights_ref_scaffold.md
+prompt: sdd/plans/202606/prompts/remove_highlights_ref_scaffold.md
 tier: tale
 ---
 # Remove Highlights Ref Summary/My Notes Scaffold

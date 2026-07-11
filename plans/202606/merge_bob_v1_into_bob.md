@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 09:01:20
 status: proposed
-prompt: sdd/prompts/202606/merge_bob_v1_into_bob.md
+prompt: sdd/plans/202606/prompts/merge_bob_v1_into_bob.md
 tier: tale
 ---
 

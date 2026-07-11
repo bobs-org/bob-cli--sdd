@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 15:49:29
 status: done
-prompt: sdd/prompts/202606/obsidian_embed_keymap_fallback.md
+prompt: sdd/plans/202606/prompts/obsidian_embed_keymap_fallback.md
 tier: tale
 ---
 # Plan: Obsidian Vim Keymap Fallback Over Focused Embeds (e.g. transcluded Bases tables)

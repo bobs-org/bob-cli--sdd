@@ -4,7 +4,7 @@ create_time: 2026-06-18 21:23:27
 status: proposed
 supersedes_commit: 478a0f6
 prior_plan: sdd/tales/202606/obsidian_delete_tab_keymaps.md
-prompt: sdd/prompts/202606/obsidian_delete_tab_keymaps_fix_1.md
+prompt: sdd/plans/202606/prompts/obsidian_delete_tab_keymaps_fix_1.md
 tier: tale
 ---
 

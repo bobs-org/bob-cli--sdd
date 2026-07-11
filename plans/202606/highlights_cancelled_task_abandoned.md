@@ -1,7 +1,7 @@
 ---
 status: planned
 create_time: 2026-06-06 09:21:09
-prompt: sdd/prompts/202606/highlights_cancelled_task_abandoned.md
+prompt: sdd/plans/202606/prompts/highlights_cancelled_task_abandoned.md
 tier: tale
 ---
 

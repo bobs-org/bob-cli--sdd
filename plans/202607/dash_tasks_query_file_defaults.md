@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 12:54:31
 status: wip
-prompt: .sase/sdd/prompts/202607/dash_tasks_query_file_defaults.md
+prompt: .sase/sdd/plans/202607/prompts/dash_tasks_query_file_defaults.md
 tier: tale
 ---
 # Plan: De-duplicate `dash.md` Tasks queries with Query File Defaults

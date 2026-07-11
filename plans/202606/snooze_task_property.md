@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 20:20:12
 status: wip
-prompt: sdd/prompts/202606/snooze_task_property.md
+prompt: sdd/plans/202606/prompts/snooze_task_property.md
 tier: tale
 ---
 # Plan: `snooze` Task Property Support

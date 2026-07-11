@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 12:47:27
 status: done
-prompt: sdd/prompts/202606/pomodoro_keymaps_update_ledger.md
+prompt: sdd/plans/202606/prompts/pomodoro_keymaps_update_ledger.md
 tier: tale
 ---
 # Pomodoro Keymaps Ledger Update Plan

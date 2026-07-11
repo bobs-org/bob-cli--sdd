@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 11:24:14
 status: done
-prompt: sdd/prompts/202606/bob_help_redesign.md
+prompt: sdd/plans/202606/prompts/bob_help_redesign.md
 tier: tale
 ---
 # Bob `-h` Help Redesign Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 08:26:11
 status: done
-prompt: sdd/prompts/202606/justfile_quality_targets.md
+prompt: sdd/plans/202606/prompts/justfile_quality_targets.md
 tier: tale
 ---
 # Justfile Quality Targets Plan

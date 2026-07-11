@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 13:06:47
 status: done
-prompt: .sase/sdd/prompts/202607/dash_location_memory.md
+prompt: .sase/sdd/plans/202607/prompts/dash_location_memory.md
 tier: tale
 ---
 # Plan: Remember `dash.md` Location for `<Ctrl+0>`

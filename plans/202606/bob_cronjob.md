@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 18:46:07
 status: done
-prompt: sdd/prompts/202606/bob_cronjob.md
+prompt: sdd/plans/202606/prompts/bob_cronjob.md
 tier: tale
 ---
 # Plan: `bob cronjob` — the single nightly entry point

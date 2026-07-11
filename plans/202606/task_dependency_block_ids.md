@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 11:28:49
 status: done
-prompt: sdd/prompts/202606/task_dependency_block_ids.md
+prompt: sdd/plans/202606/prompts/task_dependency_block_ids.md
 tier: tale
 ---
 # Use Block IDs for Generated Task Dependency IDs

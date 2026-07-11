@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 08:42:25
 status: done
-prompt: sdd/prompts/202606/convert_sase_project_1.md
+prompt: sdd/plans/202606/prompts/convert_sase_project_1.md
 tier: tale
 ---
 # Plan: Convert `~/bob/sase.md` Into a Bob Project File

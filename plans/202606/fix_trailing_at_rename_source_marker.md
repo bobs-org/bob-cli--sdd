@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 21:46:40
 status: wip
-prompt: sdd/prompts/202606/fix_trailing_at_rename_source_marker.md
+prompt: sdd/plans/202606/prompts/fix_trailing_at_rename_source_marker.md
 tier: tale
 ---
 # Fix trailing @ rename source-marker detection

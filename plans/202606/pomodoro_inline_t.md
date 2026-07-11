@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 11:41:53
 status: done
-prompt: sdd/prompts/202606/pomodoro_inline_t.md
+prompt: sdd/plans/202606/prompts/pomodoro_inline_t.md
 tier: tale
 ---
 # Pomodoro Inline `t` Duration Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 10:04:48
 status: done
-prompt: sdd/prompts/202606/obsidian_daily_vim_minus.md
+prompt: sdd/plans/202606/prompts/obsidian_daily_vim_minus.md
 tier: tale
 ---
 # Fix Obsidian Daily Note Minus Vim Mapping Plan

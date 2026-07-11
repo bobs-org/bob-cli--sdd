@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 15:21:40
 status: done
-prompt: sdd/prompts/202606/ctrl6_block_id_keymap.md
+prompt: sdd/plans/202606/prompts/ctrl6_block_id_keymap.md
 tier: tale
 ---
 # Plan: Add `<Ctrl+6>` Selected Block ID Rename/Add Keymap

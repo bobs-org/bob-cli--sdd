@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 13:31:16
 status: proposed
-prompt: sdd/prompts/202606/recursive_transcluded_pomodoro_tasks_1.md
+prompt: sdd/plans/202606/prompts/recursive_transcluded_pomodoro_tasks_1.md
 tier: tale
 ---
 

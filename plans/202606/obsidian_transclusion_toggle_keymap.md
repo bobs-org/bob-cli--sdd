@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 22:02:17
 status: done
-prompt: sdd/prompts/202606/obsidian_transclusion_toggle_keymap.md
+prompt: sdd/plans/202606/prompts/obsidian_transclusion_toggle_keymap.md
 tier: tale
 ---
 # Obsidian Line Transclusion Toggle Keymap Plan

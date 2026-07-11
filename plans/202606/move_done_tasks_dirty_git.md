@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 09:21:43
 status: done
-prompt: sdd/prompts/202606/move_done_tasks_dirty_git.md
+prompt: sdd/plans/202606/prompts/move_done_tasks_dirty_git.md
 tier: tale
 ---
 # Plan: Stop Refusing Dirty move-done-tasks Candidates

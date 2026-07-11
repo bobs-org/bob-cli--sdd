@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 18:04:09
 status: done
-prompt: sdd/prompts/202606/hammerspoon_capture_created_property.md
+prompt: sdd/plans/202606/prompts/hammerspoon_capture_created_property.md
 tier: tale
 ---
 # Hammerspoon Capture Created Property Plan

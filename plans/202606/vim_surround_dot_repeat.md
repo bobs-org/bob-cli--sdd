@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 10:29:03
 status: wip
-prompt: sdd/prompts/202606/vim_surround_dot_repeat.md
+prompt: sdd/plans/202606/prompts/vim_surround_dot_repeat.md
 tier: tale
 ---
 # Plan: Dot-repeat (`.`) support for `ys` / `ds` / `cs` in `bob-vim-surround`

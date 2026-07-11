@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 10:03:32
 status: done
-prompt: sdd/prompts/202606/ctrl_shift_jk_pomodoro_tasks.md
+prompt: sdd/plans/202606/prompts/ctrl_shift_jk_pomodoro_tasks.md
 tier: tale
 ---
 # Plan: Include Pomodoro Tasks in Ctrl+Shift+J/K Navigation

@@ -2,7 +2,7 @@
 title: Clear Obsidian Vim Search Highlight on Normal-Mode Escape
 status: proposed
 create_time: 2026-06-22 10:02:15
-prompt: sdd/prompts/202606/obsidian_escape_nohlsearch_1.md
+prompt: sdd/plans/202606/prompts/obsidian_escape_nohlsearch_1.md
 tier: tale
 ---
 

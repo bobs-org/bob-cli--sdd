@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 14:17:38
 status: done
-prompt: sdd/prompts/202606/capture_embedded_bullet_marker.md
+prompt: sdd/plans/202606/prompts/capture_embedded_bullet_marker.md
 tier: tale
 ---
 # Plan: Require Bullet Markers On Capture Route Tokens

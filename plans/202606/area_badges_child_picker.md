@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 07:39:43
 status: wip
-prompt: sdd/prompts/202606/area_badges_child_picker.md
+prompt: sdd/plans/202606/prompts/area_badges_child_picker.md
 tier: tale
 ---
 # Plan: Area badges in the `<ctrl+=>` child-note picker

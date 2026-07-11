@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 09:52:26
 status: wip
-prompt: .sase/sdd/prompts/202606/bob_cli_migration_1.md
+prompt: .sase/sdd/plans/202606/prompts/bob_cli_migration_1.md
 tier: epic
 ---
 # Bob CLI Migration Plan

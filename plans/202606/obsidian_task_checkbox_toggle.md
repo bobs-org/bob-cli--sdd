@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 10:59:00
 status: wip
-prompt: sdd/prompts/202606/obsidian_task_checkbox_toggle.md
+prompt: sdd/plans/202606/prompts/obsidian_task_checkbox_toggle.md
 tier: tale
 ---
 # Plan: Obsidian Ctrl+] Checkbox Marker Toggle

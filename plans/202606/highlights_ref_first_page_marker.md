@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 08:31:25
 status: done
-prompt: sdd/prompts/202606/highlights_ref_first_page_marker.md
+prompt: sdd/plans/202606/prompts/highlights_ref_first_page_marker.md
 tier: tale
 ---
 # First-Page-Only Highlights Marker Scan

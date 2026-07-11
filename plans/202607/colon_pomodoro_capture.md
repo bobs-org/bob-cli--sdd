@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 15:55:28
 status: wip
-prompt: .sase/sdd/prompts/202607/colon_pomodoro_capture.md
+prompt: .sase/sdd/plans/202607/prompts/colon_pomodoro_capture.md
 tier: tale
 ---
 # Plan: Make colon the Pomodoro capture marker

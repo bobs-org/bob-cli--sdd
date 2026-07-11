@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 08:27:18
 status: done
-prompt: sdd/prompts/202606/obsidian_alt_file_type_fallback.md
+prompt: sdd/plans/202606/prompts/obsidian_alt_file_type_fallback.md
 tier: tale
 ---
 # Obsidian `<Ctrl+,>` Keymap: Fall Back to `type` When `alt_file` Is Missing

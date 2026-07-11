@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 09:01:56
 status: done
-prompt: sdd/prompts/202606/new_note_current_parent_fallback.md
+prompt: sdd/plans/202606/prompts/new_note_current_parent_fallback.md
 tier: tale
 ---
 # Plan: Try Current Note Parent For Cmd+N New Notes

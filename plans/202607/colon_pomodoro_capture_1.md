@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 16:35:25
 status: done
-prompt: .sase/sdd/prompts/202607/colon_pomodoro_capture_1.md
+prompt: .sase/sdd/plans/202607/prompts/colon_pomodoro_capture_1.md
 tier: tale
 ---
 # Plan: Make colon the Pomodoro capture discriminator

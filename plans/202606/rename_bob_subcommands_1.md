@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 03:04:35
 status: done
-prompt: sdd/prompts/202606/rename_bob_subcommands_1.md
+prompt: sdd/plans/202606/prompts/rename_bob_subcommands_1.md
 tier: tale
 ---
 # Plan: Rename Bob task-moving and bulk commit subcommands

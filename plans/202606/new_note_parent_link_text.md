@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 09:57:21
 status: done
-prompt: sdd/prompts/202606/new_note_parent_link_text.md
+prompt: sdd/plans/202606/prompts/new_note_parent_link_text.md
 tier: tale
 ---
 # Plan: Hide `.md` In New Note Parent Link Text

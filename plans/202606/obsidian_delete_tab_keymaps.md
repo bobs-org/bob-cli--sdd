@@ -2,7 +2,7 @@
 title: Obsidian Delete-Tab Vim Keymaps Plan
 create_time: 2026-06-18 20:58:23
 status: planned
-prompt: sdd/prompts/202606/obsidian_delete_tab_keymaps.md
+prompt: sdd/plans/202606/prompts/obsidian_delete_tab_keymaps.md
 tier: tale
 ---
 

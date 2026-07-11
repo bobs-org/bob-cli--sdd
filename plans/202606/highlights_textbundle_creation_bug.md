@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 10:53:03
 status: done
-prompt: sdd/prompts/202606/highlights_textbundle_creation_bug.md
+prompt: sdd/plans/202606/prompts/highlights_textbundle_creation_bug.md
 tier: tale
 ---
 # Plan: Document Highlights TextBundle Creation Bug

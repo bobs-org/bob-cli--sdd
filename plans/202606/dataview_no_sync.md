@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 15:04:53
 status: done
-prompt: sdd/prompts/202606/dataview_no_sync.md
+prompt: sdd/plans/202606/prompts/dataview_no_sync.md
 tier: tale
 ---
 # Plan: Make `bob dataview` Read-Only and Sync-Free

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 08:00:44
 status: done
-prompt: .sase/sdd/prompts/202607/ctrl_enter_next_status.md
+prompt: .sase/sdd/plans/202607/prompts/ctrl_enter_next_status.md
 tier: tale
 ---
 # Fix Ctrl+Enter completion for Next tasks

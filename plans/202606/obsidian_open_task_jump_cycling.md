@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 07:59:01
 status: proposed
-prompt: sdd/prompts/202606/obsidian_open_task_jump_cycling.md
+prompt: sdd/plans/202606/prompts/obsidian_open_task_jump_cycling.md
 tier: tale
 ---
 

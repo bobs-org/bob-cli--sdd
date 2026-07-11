@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 08:12:28
 status: wip
-prompt: sdd/prompts/202606/artifact_file_fallback.md
+prompt: sdd/plans/202606/prompts/artifact_file_fallback.md
 tier: tale
 ---
 # Plan: SASE Artifact Viewer Raw-File Fallback

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 23:13:58
 status: wip
-prompt: sdd/prompts/202606/migrate_ref_pdf_lines_to_tasks.md
+prompt: sdd/plans/202606/prompts/migrate_ref_pdf_lines_to_tasks.md
 tier: tale
 ---
 # Migrate non-legacy ref-note PDF lines to generated tasks

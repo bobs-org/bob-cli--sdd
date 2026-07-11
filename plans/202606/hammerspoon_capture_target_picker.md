@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 09:44:13
 status: done
-prompt: sdd/prompts/202606/hammerspoon_capture_target_picker.md
+prompt: sdd/plans/202606/prompts/hammerspoon_capture_target_picker.md
 tier: tale
 ---
 # Plan: Hammerspoon Capture Target Picker Integration

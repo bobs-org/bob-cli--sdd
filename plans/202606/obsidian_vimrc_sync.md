@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 16:12:32
 status: done
-prompt: sdd/prompts/202606/obsidian_vimrc_sync.md
+prompt: sdd/plans/202606/prompts/obsidian_vimrc_sync.md
 tier: tale
 ---
 # Fix Obsidian VimRC Sync

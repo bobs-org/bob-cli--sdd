@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 11:53:47
 status: done
-prompt: sdd/prompts/202606/projects_prj_priority_sync.md
+prompt: sdd/plans/202606/prompts/projects_prj_priority_sync.md
 tier: tale
 ---
 # Plan: `bob projects sync` — manage `^prj` `[p::2]` instead of `[scheduled::...]`

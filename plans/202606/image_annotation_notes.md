@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 10:38:23
 status: wip
-prompt: sdd/prompts/202606/image_annotation_notes.md
+prompt: sdd/plans/202606/prompts/image_annotation_notes.md
 tier: tale
 ---
 # Image Annotation Notes Plan

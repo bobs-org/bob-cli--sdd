@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 14:26:50
 status: done
-prompt: sdd/prompts/202606/obsidian_vim_o_list_continuation.md
+prompt: sdd/plans/202606/prompts/obsidian_vim_o_list_continuation.md
 tier: tale
 ---
 # Obsidian Vim `o` List Continuation Plan

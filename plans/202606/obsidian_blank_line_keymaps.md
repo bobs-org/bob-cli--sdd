@@ -2,7 +2,7 @@
 title: Obsidian Vim Blank-Line Keymaps Plan
 create_time: 2026-06-11 10:10:15
 status: done
-prompt: sdd/prompts/202606/obsidian_blank_line_keymaps.md
+prompt: sdd/plans/202606/prompts/obsidian_blank_line_keymaps.md
 tier: tale
 ---
 

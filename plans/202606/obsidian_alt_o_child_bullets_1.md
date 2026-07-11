@@ -2,7 +2,7 @@
 title: Obsidian Alt+O Child Bullet Open-Line Keymaps
 create_time: 2026-06-14 18:21:18
 status: proposed
-prompt: sdd/prompts/202606/obsidian_alt_o_child_bullets_1.md
+prompt: sdd/plans/202606/prompts/obsidian_alt_o_child_bullets_1.md
 tier: tale
 ---
 

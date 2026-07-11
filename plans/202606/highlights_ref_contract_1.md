@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 05:17:57
 status: done
-prompt: sdd/prompts/202606/highlights_ref_contract_1.md
+prompt: sdd/plans/202606/prompts/highlights_ref_contract_1.md
 tier: tale
 ---
 # Plan: Tighten `bob highlights-ref` Reference Metadata Contract

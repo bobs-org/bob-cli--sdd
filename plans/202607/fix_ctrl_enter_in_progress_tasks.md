@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 12:46:51
 status: wip
-prompt: .sase/sdd/prompts/202607/fix_ctrl_enter_in_progress_tasks.md
+prompt: .sase/sdd/plans/202607/prompts/fix_ctrl_enter_in_progress_tasks.md
 tier: tale
 ---
 # Fix Ctrl+Enter for in-progress Obsidian tasks

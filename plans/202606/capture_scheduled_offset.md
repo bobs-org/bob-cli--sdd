@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 14:06:30
 status: done
-prompt: sdd/prompts/202606/capture_scheduled_offset.md
+prompt: sdd/plans/202606/prompts/capture_scheduled_offset.md
 tier: tale
 ---
 # Plan: `s:<N>` scheduled-offset syntax for `bob capture`

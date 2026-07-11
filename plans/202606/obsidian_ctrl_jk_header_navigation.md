@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 11:11:45
 status: done
-prompt: sdd/prompts/202606/obsidian_ctrl_jk_header_navigation.md
+prompt: sdd/plans/202606/prompts/obsidian_ctrl_jk_header_navigation.md
 tier: tale
 ---
 # Plan: Obsidian Ctrl+J / Ctrl+K Section-Header Navigation

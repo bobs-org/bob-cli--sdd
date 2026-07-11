@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 09:14:42
 status: done
-prompt: sdd/prompts/202606/highlights_ref_comment_bullets.md
+prompt: sdd/plans/202606/prompts/highlights_ref_comment_bullets.md
 tier: tale
 ---
 # Fix Highlights Sidecar Bullet Comments

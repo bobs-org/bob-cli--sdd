@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 09:03:25
 status: done
-prompt: sdd/prompts/202606/block_link_completion_hash_caret.md
+prompt: sdd/plans/202606/prompts/block_link_completion_hash_caret.md
 tier: tale
 ---
 # Plan: Complete block-link task picker links as `[[foo#^id]]`, not `[[foo^id]]`

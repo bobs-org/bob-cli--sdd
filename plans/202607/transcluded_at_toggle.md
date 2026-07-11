@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 19:27:00
 status: done
-prompt: sdd/prompts/202607/transcluded_at_toggle.md
+prompt: sdd/plans/202607/prompts/transcluded_at_toggle.md
 tier: tale
 ---
 # Plan: Toggle @ Transcluded Task Start State

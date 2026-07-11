@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 06:55:06
 status: done
-prompt: sdd/prompts/202606/highlights_ref_plain_parent.md
+prompt: sdd/plans/202606/prompts/highlights_ref_plain_parent.md
 tier: tale
 ---
 # Highlights Ref Plain Parent Marker Plan

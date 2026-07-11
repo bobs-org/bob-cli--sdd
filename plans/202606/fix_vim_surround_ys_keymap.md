@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 22:37:43
 status: wip
-prompt: sdd/prompts/202606/fix_vim_surround_ys_keymap.md
+prompt: sdd/plans/202606/prompts/fix_vim_surround_ys_keymap.md
 tier: tale
 ---
 # Plan: Fix `bob-vim-surround` so `ys{count}{motion}{char}` actually fires

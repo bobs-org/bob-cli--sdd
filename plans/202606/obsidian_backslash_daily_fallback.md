@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 22:52:57
 status: done
-prompt: sdd/prompts/202606/obsidian_backslash_daily_fallback.md
+prompt: sdd/plans/202606/prompts/obsidian_backslash_daily_fallback.md
 tier: tale
 ---
 # Obsidian `\\` Daily Fallback Plan

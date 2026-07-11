@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 16:23:17
 status: wip
-prompt: .sase/sdd/prompts/202607/hammerspoon_pomodoro_link_capture.md
+prompt: .sase/sdd/plans/202607/prompts/hammerspoon_pomodoro_link_capture.md
 tier: tale
 ---
 # Plan: Add Pomodoro-linked capture flow to the Hammerspoon keymap

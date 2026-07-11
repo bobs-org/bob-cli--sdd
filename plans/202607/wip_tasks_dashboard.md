@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 17:16:55
 status: done
-prompt: sdd/prompts/202607/wip_tasks_dashboard.md
+prompt: sdd/plans/202607/prompts/wip_tasks_dashboard.md
 tier: tale
 ---
 # Plan: Add WIP Tasks to Dashboard

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 15:01:43
 status: done
-prompt: sdd/prompts/202606/pomodoro_next_cursor_jump.md
+prompt: sdd/plans/202606/prompts/pomodoro_next_cursor_jump.md
 tier: tale
 ---
 # Plan: Jump Cursor to the Next Pomodoro Task After `<Ctrl+Enter>` Completion

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 07:36:38
 status: done
-prompt: sdd/prompts/202606/obsidian_enter_repeat_explicit_fix.md
+prompt: sdd/plans/202606/prompts/obsidian_enter_repeat_explicit_fix.md
 tier: tale
 ---
 # Obsidian Vim Enter — `repeatIsExplicit` Root-Cause Fix

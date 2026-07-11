@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 07:08:32
 status: done
-prompt: sdd/prompts/202606/highlight_task_routing_processed_index.md
+prompt: sdd/plans/202606/prompts/highlight_task_routing_processed_index.md
 tier: tale
 ---
 # Plan: Highlight Task Routing and Processed-Task Tracking

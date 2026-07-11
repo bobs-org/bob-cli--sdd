@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 16:25:32
 status: done
-prompt: sdd/prompts/202606/enter_current_line.md
+prompt: sdd/plans/202606/prompts/enter_current_line.md
 tier: tale
 ---
 # Enter Current-Line Target Plan

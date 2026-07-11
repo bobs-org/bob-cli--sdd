@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 09:28:56
 status: done
-prompt: .sase/sdd/prompts/202607/next_transcluded_pomodoro_tasks.md
+prompt: .sase/sdd/plans/202607/prompts/next_transcluded_pomodoro_tasks.md
 tier: tale
 ---
 # Fix Next-status transcluded Pomodoro completion

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 10:39:22
 status: done
-prompt: sdd/prompts/202606/eat_base.md
+prompt: sdd/plans/202606/prompts/eat_base.md
 tier: tale
 ---
 # Eat Base Design Plan

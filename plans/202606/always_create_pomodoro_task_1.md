@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 10:45:53
 status: wip
-prompt: sdd/prompts/202606/always_create_pomodoro_task_1.md
+prompt: sdd/plans/202606/prompts/always_create_pomodoro_task_1.md
 tier: tale
 ---
 # Plan: Always Create a Fresh Pomodoro Task on Completion

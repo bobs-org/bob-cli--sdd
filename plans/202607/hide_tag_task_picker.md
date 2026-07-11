@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-02 06:49:00
 status: done
-prompt: sdd/prompts/202607/hide_tag_task_picker.md
+prompt: sdd/plans/202607/prompts/hide_tag_task_picker.md
 tier: tale
 ---
 # Plan: Exclude `#hide` tasks from the `^^` task-link picker

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 14:21:48
 status: done
-prompt: sdd/prompts/202606/projects_subprojects_line.md
+prompt: sdd/plans/202606/prompts/projects_subprojects_line.md
 tier: tale
 ---
 # Plan: `bob projects sync` — one beautiful machine-owned Sub-projects line under `^prj`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 07:52:49
 status: done
-prompt: sdd/prompts/202606/block_link_task_picker.md
+prompt: sdd/plans/202606/prompts/block_link_task_picker.md
 tier: tale
 ---
 # Plan: Block‑link task picker (`^^` → pick an open task → complete the link)

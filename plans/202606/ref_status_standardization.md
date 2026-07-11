@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 22:39:02
 status: done
-prompt: sdd/prompts/202606/ref_status_standardization.md
+prompt: sdd/plans/202606/prompts/ref_status_standardization.md
 tier: tale
 ---
 # Plan: Reference Note Status Standardization
