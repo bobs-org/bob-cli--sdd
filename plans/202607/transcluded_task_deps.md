@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 16:08:58
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/transcluded_task_deps.md
 tier: tale
 ---
