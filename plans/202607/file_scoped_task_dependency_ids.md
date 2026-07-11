@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 16:38:12
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/file_scoped_task_dependency_ids.md
 tier: tale
 ---
