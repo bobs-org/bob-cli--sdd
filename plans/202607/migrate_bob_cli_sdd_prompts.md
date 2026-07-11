@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 18:02:02
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/migrate_bob_cli_sdd_prompts.md
 tier: tale
 ---

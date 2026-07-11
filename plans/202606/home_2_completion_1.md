@@ -1,7 +1,6 @@
 ---
 create_time: 2026-06-03 04:15:54
 status: done
-prompt: sdd/prompts/202606/home_2_completion_1.md
 tier: tale
 ---
 
