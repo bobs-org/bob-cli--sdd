@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-12 08:32:44
-status: wip
+status: done
 prompt: .sase/sdd/plans/202607/prompts/pomodoro_session_marker.md
 tier: tale
 ---
